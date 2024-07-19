@@ -4,14 +4,14 @@ layout: page
 ---
 
 
-### `Fall 2024` ICS 661 Advanced Artificial Intelligence
+### `Fall 2024 ICS 661 Advanced Artificial Intelligence`
 
 
 ## Information
-**Time**: Tuesday and Thursday 10:30 - 11:45 am
-**Location**: POST 318A
-**Instructor**: Haoepeng Zhang (Email: haopengz@hawaii.edu)
-**Office Hours**: TBA
+**Time**: Tuesday and Thursday 10:30 - 11:45 am \
+**Location**: POST 318A \
+**Instructor**: Haoepeng Zhang (Email: haopengz@hawaii.edu) \
+**Office Hours**: TBA \
 
 
 
@@ -25,10 +25,10 @@ layout: page
 </style>
 <table class="tg"><thead>
   <tr>
-    <th class="tg-0pky"><span style="font-weight:bold">**Date**</span></th>
-    <th class="tg-0pky"><span style="font-weight:bold">**Lecture**</span></th>
-    <th class="tg-0pky"><span style="font-weight:bold">**Reading**</span></th>
-    <th class="tg-0pky"><span style="font-weight:bold">**Assignment**</span></th>
+    <th class="tg-0pky"><span style="font-weight:bold">Date</span></th>
+    <th class="tg-0pky"><span style="font-weight:bold">Lecture</span></th>
+    <th class="tg-0pky"><span style="font-weight:bold">Reading</span></th>
+    <th class="tg-0pky"><span style="font-weight:bold">Assignment</span></th>
   </tr></thead>
 <tbody>
   <tr>
@@ -147,12 +147,6 @@ layout: page
   </tr>
   <tr>
     <td class="tg-0pky">10/31</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">11/05</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
