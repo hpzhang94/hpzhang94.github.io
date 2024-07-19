@@ -1,0 +1,19 @@
+# Site navigation links
+
+- title: Home
+  url: /
+  
+- title: ALOHA Lab
+  url: https://nlp-hawaii.github.io/
+
+- title: Publications
+  url: /research/
+
+- title: Teaching
+  url: /teaching/
+
+- title: CV
+  url: /Haopeng_Resume.pdf
+
+- title: Miscellaneous
+  url: /miscellaneous/
