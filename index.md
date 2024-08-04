@@ -5,14 +5,14 @@ layout: home
 # menuorder: 1
 ---
 
-I am an incoming tenure-track assistant professor in the information and computer sciences (ICS) department at <a href="https://www.ics.hawaii.edu/"><u>University of Hawaii at Mānoa</u></a>. 
+I am a tenure-track assistant professor in the information and computer sciences (ICS) department of <a href="https://www.ics.hawaii.edu/"><u>University of Hawaii at Mānoa</u></a>. 
 
 ### I am looking for self-motivated PhD students, Master students, and research interns to join my research group!
 
 
 ## Biography
 
-I earned my Ph.D. in Computer Science from UC Davis under the supervision of <a href="http://jiaweizhang.net/"><u>Dr. Jiawei Zhang</u></a>. I hold a B.S. in Electrical Engineering from the University of Illinois at Urbana-Champaign (UIUC) and two M.S. in Electrical Engineering / Computational Science from the Georgia Institute of Technology (Georgia Tech). My research interests include natural language processing, generative AI, specifically on text summarization, multi-modal LLM, and LLM applications. 
+I earned my Ph.D. in Computer Science from UC Davis under the supervision of <a href="http://jiaweizhang.net/"><u>Dr. Jiawei Zhang</u></a>. I hold two M.S. in Electrical Engineering / Computational Science from the Georgia Institute of Technology and a B.S. in Electrical Engineering from the University of Illinois at Urbana-Champaign (UIUC). My research interests include natural language processing, generative AI, specifically on text summarization, multi-modal LLM, and NLP4science. 
 
 
 ## Research Interests:
