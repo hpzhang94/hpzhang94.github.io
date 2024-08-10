@@ -33,6 +33,12 @@ title: Publications
 ## Conferences
 <ol>
 
+<li> Building Intelligent and Reliable Summarization Systems
+<br><b>Haopeng Zhang</b>
+<br>UC Davis Ph.D. dissertation
+<br><a href = "https://escholarship.org/uc/item/7zn0b66s" target="_blank"> [pdf] </a>
+</li> 
+
 <li> Unveiling the Magic: Investigating Attention Distillation in Retrieval-augmented Generation
 <br>Zizhong Li, <b>Haopeng Zhang</b>, Jiawei Zhang
 <br>2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics <b>(NAACL 2024)</b>
