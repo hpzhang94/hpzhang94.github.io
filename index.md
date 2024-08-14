@@ -22,15 +22,16 @@ I earned my Ph.D. in Computer Science from UC Davis under the supervision of <a 
 	- Misinformation & Information Retrieval
 - Generative AI
 	- Large Language Models
-	- Multi-modal foundation models, LVLM
-- Interdisciplinary research
-	- NLP/LLM4Science
+	- Large Multi-modal Language Models
+- NLP4Social Godd
+	- Indigenous culture
+	- Climate change
 - Graph Mining
 	- Graph4NLP
-	- Graph LLM
 
 ## News
 
+- 08.2024: attend NSF Innovation, Culture, and Creativity (ICC) workshop
 - 06.2024: My Ph.D. dissertation <a href = "https://escholarship.org/uc/item/7zn0b66s" target="_blank">[Building Intelligent and Reliable Summarization Systems]</a> and one survey paper <a href = "https://arxiv.org/abs/2406.11289" target="_blank">[on text summarization]</a> is available online.
 - 06.2024: one research paper <a href = "https://arxiv.org/abs/2406.12169" target="_blank">[on LLM knowledge distillation]</a> is available on arXiv.
 - 05.2024: 🎓 Successfully Completed My Ph.D. at UC Davis. Officially Dr. Zhang!

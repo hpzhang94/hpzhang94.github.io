@@ -27,6 +27,13 @@ title: Publications
 <br>arXiv preprint arXiv:2304.04193
 <br><a href = "https://arxiv.org/abs/2304.04193" target="_blank"> [pdf] </a>
 </li> -->
+
+<li> A Structure-aware Generative Model for Biomedical Event Extraction
+<br> Haohan Yuan*, Siu Cheung Hui, <b>Haopeng Zhang</b>
+<br> arXiv preprint arXiv:2304.04193
+<br><a href = "https://arxiv.org/abs/2304.04193" target="_blank"> [pdf] </a>
+</li>
+
 </ol>
 
 
@@ -71,7 +78,7 @@ title: Publications
 <br><a href = "https://arxiv.org/abs/2306.00177"> [pdf]</a> <a href = "https://github.com/hpzhang94/changes"> [code] </a>
 </li>
 <li> Diffusum: Generation enhanced extractive summarization with diffusion
-<br><b>Haopeng Zhang*</b>, Xiao Liu*, Jiawei Zhang
+<br><b>Haopeng Zhang</b>, Xiao Liu, Jiawei Zhang
 <br>Findings of the Association for Computational Linguistics:ACL 2023 <b>(ACL 2023)</b>
 <br><a href = "https://arxiv.org/abs/2305.01735"> [pdf]</a> <a href = "https://github.com/hpzhang94/DiffuSum"> [code] </a>
 </li>
