@@ -4,14 +4,12 @@ layout: page
 ---
 
 
-### `Fall 2024 ICS 661 Advanced Artificial Intelligence`
+### `ICS 661 Advanced Artificial Intelligence`
 
-
-## Information
 **Time**: Tuesday and Thursday 10:30 - 11:45 am \
-**Location**: POST 318A \
+**Location**: POST 318 \
 **Instructor**: Haoepeng Zhang (Email: haopengz@hawaii.edu) \
-**Office Hours**: TBA \
+**Office Hours**: TBA
 
 
 

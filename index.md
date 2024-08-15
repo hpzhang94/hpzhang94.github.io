@@ -7,12 +7,12 @@ layout: home
 
 I am a tenure-track assistant professor in the information and computer sciences (ICS) department of <a href="https://www.ics.hawaii.edu/"><u>University of Hawaii at Mānoa</u></a>. 
 
-### I am looking for self-motivated PhD students, Master students, and research interns to join my research group!
+#### I am looking for self-motivated PhD/Master students and research interns to join my lab!
 
 
 ## Biography
 
-I earned my Ph.D. in Computer Science from UC Davis under the supervision of <a href="http://jiaweizhang.net/"><u>Dr. Jiawei Zhang</u></a>. I hold two M.S. in Electrical Engineering / Computational Science from the Georgia Institute of Technology and a B.S. in Electrical Engineering from the University of Illinois at Urbana-Champaign (UIUC). My research interests include natural language processing, generative AI, specifically on text summarization, multi-modal LLM, and NLP4science. 
+I earned my Ph.D. in Computer Science from UC Davis under the supervision of <a href="http://jiaweizhang.net/"><u>Dr. Jiawei Zhang</u></a>. I hold two M.S. in Electrical Engineering / Computational Science from the Georgia Institute of Technology and a B.S. in Electrical Engineering from the University of Illinois at Urbana-Champaign (UIUC). My research interests include natural language processing (NLP), generative AI, graph mining and NLP for social good. 
 
 
 ## Research Interests:
@@ -22,8 +22,8 @@ I earned my Ph.D. in Computer Science from UC Davis under the supervision of <a 
 	- Misinformation & Information Retrieval
 - Generative AI
 	- Large Language Models
-	- Large Multi-modal Language Models
-- NLP4Social Godd
+	- Large Multi-modal Foundation Models
+- NLP for social good
 	- Indigenous culture
 	- Climate change
 - Graph Mining
@@ -31,7 +31,7 @@ I earned my Ph.D. in Computer Science from UC Davis under the supervision of <a 
 
 ## News
 
-- 08.2024: attend NSF Innovation, Culture, and Creativity (ICC) workshop
+- 08.2024: attend NSF Innovation, Culture, and Creativity (ICC) workshop.
 - 06.2024: My Ph.D. dissertation <a href = "https://escholarship.org/uc/item/7zn0b66s" target="_blank">[Building Intelligent and Reliable Summarization Systems]</a> and one survey paper <a href = "https://arxiv.org/abs/2406.11289" target="_blank">[on text summarization]</a> is available online.
 - 06.2024: one research paper <a href = "https://arxiv.org/abs/2406.12169" target="_blank">[on LLM knowledge distillation]</a> is available on arXiv.
 - 05.2024: 🎓 Successfully Completed My Ph.D. at UC Davis. Officially Dr. Zhang!
