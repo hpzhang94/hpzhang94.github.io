@@ -2,6 +2,7 @@
 layout: page
 title: Publications
 ---
+* My students
 
 ## Preprints
 <ol>
@@ -27,11 +28,10 @@ title: Publications
 <br>arXiv preprint arXiv:2304.04193
 <br><a href = "https://arxiv.org/abs/2304.04193" target="_blank"> [pdf] </a>
 </li> -->
-
 <li> A Structure-aware Generative Model for Biomedical Event Extraction
 <br> Haohan Yuan*, Siu Cheung Hui, <b>Haopeng Zhang</b>
 <br> arXiv preprint arXiv:2304.04193
-<br><a href = "https://arxiv.org/abs/2304.04193" target="_blank"> [pdf] </a>
+<br><a href = "https://arxiv.org/abs/2408.06583" target="_blank"> [pdf] </a>
 </li>
 
 </ol>

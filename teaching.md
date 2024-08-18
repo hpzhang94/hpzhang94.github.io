@@ -6,13 +6,28 @@ layout: page
 
 ### `ICS 661 Advanced Artificial Intelligence`
 
-**Time**: Tuesday and Thursday 10:30 - 11:45 am \
-**Location**: POST 318 \
-**Instructor**: Haoepeng Zhang (Email: haopengz@hawaii.edu) \
-**Office Hours**: TBA
+- **Time**: Tuesday and Thursday 10:30 - 11:45 am
+- **Location**: BIOMD T211
+- **Professor Contact Information**: 
+  - Professor: Haoepeng Zhang 
+  - Email: haopengz@hawaii.edu
+  - Office Hours: TBA, POST 309C
+- **Prerequisites**
+  - Programming in Python
+  - ICS 461 Artificial Intelligence 
+  - ICS 435 Machine Learning
+- **Topics**: 
+  - word embeddigns, RNN, seq2seq, transformer, PLM, LLM
+  - QA, translation, summarization, generation, interpretability, visonLM
+- **Syllabus**: <a href="https://docs.google.com/document/d/1kk2PSeyUnobR7efLXq6OlN3mtndl3kjSOnmJnaohjus/edit?usp=sharing"><u>syllabus</u></a>
+- **Schedule**: <a href="https://docs.google.com/spreadsheets/d/1UD-v-SlzYCwPtQ_EkFKzMMfHNaYshyQFyic73Cqho8w/edit?usp=sharing"><u>schedule</u></a>
 
 
 
+
+
+
+<!-- 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -209,49 +224,8 @@ layout: page
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
   </tr>
-</tbody></table>
+</tbody></table> -->
 
-<!-- 
-## Lectures and Schedules
-
-| **Date** | **Lecture** | **Reading** | **Assignment** |
-|----------|-------------|-------------|----------------|
-| 08/27    |  Overview   |             |                |
-| 08/29    |             |             |                |
-| 09/03    |             |             |                |
-| 09/05    |             |             |                |
-| 09/10    |             |             |                |
-| 09/12    |             |             |                |
-| 09/17    |             |             |                |
-| 09/19    |             |             |                |
-| 09/24    |             |             |                |
-| 09/26    |             |             |                |
-| 10/01    |             |             |                |
-| 10/03    |             |             |                |
-| 10/08    |             |             |                |
-| 10/10    |             |             |                |
-| 10/15    |             |             |                |
-| 10/17    |             |             |                |
-| 10/22    |             |             |                |
-| 10/24    |             |             |                |
-| 10/29    |             |             |                |
-| 10/31    |             |             |                |
-| 11/05    |             |             |                |
-| 11/07    |             |             |                |
-| 11/12    |             |             |                |
-| 11/14    |             |             |                |
-| 11/19    |             |             |                |
-| 11/21    |             |             |                |
-| 11/26    |             |             |                |
-| 12/03    |             |             |                |
-| 12/05    |             |             |                |
-| 12/10    |             |             |                |
-| 12/12    |             |             |                |
-
-
-
-
- -->
 <!-- 
 ### Teaching Assistant
 
