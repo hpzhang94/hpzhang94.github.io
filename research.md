@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 ---
-* My students
+\* my students
 
 ## Preprints
 <ol>

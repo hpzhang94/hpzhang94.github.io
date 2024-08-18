@@ -8,8 +8,8 @@ layout: page
 
 - **Time**: Tuesday and Thursday 10:30 - 11:45 am
 - **Location**: BIOMD T211
-- **Professor Contact Information**: 
-  - Professor: Haoepeng Zhang 
+- **Professor Information**: 
+  - Professor: Haopeng Zhang 
   - Email: haopengz@hawaii.edu
   - Office Hours: TBA, POST 309C
 - **Prerequisites**
@@ -17,10 +17,10 @@ layout: page
   - ICS 461 Artificial Intelligence 
   - ICS 435 Machine Learning
 - **Topics**: 
-  - word embeddigns, RNN, seq2seq, transformer, PLM, LLM
-  - QA, translation, summarization, generation, interpretability, visonLM
-- **Syllabus**: <a href="https://docs.google.com/document/d/1kk2PSeyUnobR7efLXq6OlN3mtndl3kjSOnmJnaohjus/edit?usp=sharing"><u>syllabus</u></a>
-- **Schedule**: <a href="https://docs.google.com/spreadsheets/d/1UD-v-SlzYCwPtQ_EkFKzMMfHNaYshyQFyic73Cqho8w/edit?usp=sharing"><u>schedule</u></a>
+  - NLP Methodology: word embeddigns, RNN, seq2seq, transformer, PLM, LLM
+  - NLP Applications: QA, translation, summarization, generation, interpretability, visonLM
+- **Syllabus**: <a href="https://docs.google.com/document/d/1kk2PSeyUnobR7efLXq6OlN3mtndl3kjSOnmJnaohjus/edit?usp=sharing" target="_blank">syllabus</a>
+- **Schedule**: <a href="https://docs.google.com/spreadsheets/d/1UD-v-SlzYCwPtQ_EkFKzMMfHNaYshyQFyic73Cqho8w/edit?usp=sharing" target="_blank">schedule</a>
 
 
 
