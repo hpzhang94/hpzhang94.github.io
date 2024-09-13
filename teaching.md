@@ -21,7 +21,7 @@ layout: page
   - NLP Applications: QA, translation, summarization, generation, interpretability, visonLM
 - **Syllabus**: <a href="https://docs.google.com/document/d/1kk2PSeyUnobR7efLXq6OlN3mtndl3kjSOnmJnaohjus/edit?usp=sharing" target="_blank">syllabus</a>
 - **Schedule**: <a href="https://docs.google.com/spreadsheets/d/1UD-v-SlzYCwPtQ_EkFKzMMfHNaYshyQFyic73Cqho8w/edit?usp=sharing" target="_blank">schedule</a>
-- **Assignment/Announcement**: <a href="https://laulima.hawaii.edu/portal/site/MAN.79714.202510" target="_blank">schedule</a>
+- **Assignment/Announcement**: <a href="https://laulima.hawaii.edu/portal/site/MAN.79714.202510" target="_blank">assignment</a>
 
 
 

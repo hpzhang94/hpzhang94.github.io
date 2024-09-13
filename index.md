@@ -30,8 +30,9 @@ I earned my Ph.D. in Computer Science from UC Davis under the supervision of <a 
 	- Graph4NLP
 
 ## News
-
-- 08.2024: attend NSF Innovation, Culture, and Creativity (ICC) workshop.
+- 09.2024:Glad to serve as panelist for NSF ACED panel
+- 09.2024: Glad to receive computing credits from NSF ACCESS Allocations program
+- 08.2024: Glad to attend NSF Innovation, Culture, and Creativity (ICC) workshop.
 - 06.2024: My Ph.D. dissertation <a href = "https://escholarship.org/uc/item/7zn0b66s" target="_blank">[Building Intelligent and Reliable Summarization Systems]</a> and one survey paper <a href = "https://arxiv.org/abs/2406.11289" target="_blank">[on text summarization]</a> is available online.
 - 06.2024: one research paper <a href = "https://arxiv.org/abs/2406.12169" target="_blank">[on LLM knowledge distillation]</a> is available on arXiv.
 - 05.2024: 🎓 Successfully Completed My Ph.D. at UC Davis. Officially Dr. Zhang!
