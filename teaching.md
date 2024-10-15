@@ -11,7 +11,7 @@ layout: page
 - **Professor Information**: 
   - Professor: Haopeng Zhang 
   - Email: haopengz@hawaii.edu
-  - Office Hours: TBA, POST 309C
+  - Office Hours: Wednesday 1-2 pm, POST 309C
 - **Prerequisites**
   - Programming in Python
   - ICS 461 Artificial Intelligence 
