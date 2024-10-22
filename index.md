@@ -7,7 +7,7 @@ layout: home
 
 I am a tenure-track assistant professor in the information and computer sciences (ICS) department of <a href="https://www.ics.hawaii.edu/"><u>University of Hawaii at Mānoa</u></a>. 
 
-#### I am looking for self-motivated PhD/Master students and research interns to join my lab!
+#### I have 2 openings for Fall 2025 for self-motivated PhD students.
 
 
 ## Biography
@@ -30,12 +30,13 @@ I earned my Ph.D. in Computer Science from UC Davis under the supervision of <a 
 	- Graph4NLP
 
 ## News
+- 10.2024: one research paper on <a href = "https://arxiv.org/pdf/2410.15687" target="_blank"> [summmarization domain adaptation]</a> is available on arXiv.
 - 10.2024: Excited to receive computing credit awards from Google Cloud.
 - 09.2024: Honored to serve as a panelist for NSF.
 - 09.2024: Glad to receive computing credits from NSF ACCESS Allocations program.
 - 08.2024: Thrilled to attend NSF Innovation, Culture, and Creativity (ICC) workshop.
-- 06.2024: My Ph.D. dissertation <a href = "https://escholarship.org/uc/item/7zn0b66s" target="_blank">[Building Intelligent and Reliable Summarization Systems]</a> and one survey paper <a href = "https://arxiv.org/abs/2406.11289" target="_blank">[on text summarization]</a> is available online.
-- 06.2024: one research paper <a href = "https://arxiv.org/abs/2406.12169" target="_blank">[on LLM knowledge distillation]</a> is available on arXiv.
+- 06.2024: My Ph.D. dissertation <a href = "https://escholarship.org/uc/item/7zn0b66s" target="_blank">[Building Intelligent and Reliable Summarization Systems]</a> and one survey paper on <a href = "https://arxiv.org/abs/2406.11289" target="_blank"> [text summarization]</a> is available online.
+- 06.2024: one research paper on <a href = "https://arxiv.org/abs/2406.12169" target="_blank">[LLM knowledge distillation]</a> is available on arXiv.
 - 05.2024: 🎓 Successfully Completed My Ph.D. at UC Davis. Officially Dr. Zhang!
 - 04.2024: 🎉 I will join the information and computer science (ICS) department of <a href="https://www.ics.hawaii.edu/"><u>University of Hawaii at Mānoa</u></a> this Augest. Aloha! 
 - 03.2024: one research paper is accepted to NAACL 2024.

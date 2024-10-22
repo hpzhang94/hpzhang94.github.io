@@ -6,10 +6,17 @@ title: Publications
 
 ## Preprints
 <ol>
-<li> Graph-Bert: Only Attention is Needed for Learning Graph Representations
-<br>Jiawei Zhang, <b>Haopeng Zhang</b>, Li Sun, Congying Xia
-<br>arXiv preprint arXiv:2001.05140
-<br><a href = "https://arxiv.org/abs/2001.05140" target="_blank"> [pdf] </a><a href = "https://github.com/jwzhanggy/Graph-Bert"> [code] </a>
+
+<li> DomainSum: A Hierarchical Benchmark for Fine-Grained Domain Shift in Abstractive Text Summarization
+<br> Haohan Yuan*, <b>Haopeng Zhang</b>
+<br> arXiv preprint arXiv:2410.15687
+<br><a href = "https://arxiv.org/abs/2410.15687" target="_blank"> [pdf] </a> <a href = "https://github.com/hpzhang94/DomainSum"> [data, code] </a>
+</li>
+
+<li> A Structure-aware Generative Model for Biomedical Event Extraction
+<br> Haohan Yuan*, Siu Cheung Hui, <b>Haopeng Zhang</b>
+<br> arXiv preprint arXiv:2304.04193
+<br><a href = "https://arxiv.org/abs/2408.06583" target="_blank"> [pdf] </a>
 </li>
 
 <li> A Systematic Survey of Text Summarization: From Statistical Methods to Large Language Models
@@ -18,22 +25,22 @@ title: Publications
 <br><a href = "https://arxiv.org/abs/2406.11289" target="_blank"> [pdf] </a>
 </li>
 
-<li> Intermediate Distillation: Data-Efficient Distillation from Black-Box LLMs for Information Retrieval
+<li>Intermediate Distillation: Data-Efficient Distillation from Black-Box LLMs for Information Retrieval
 <br>Zizhong Li, <b>Haopeng Zhang</b>, Jiawei Zhang
 <br>arXiv preprint arXiv:2406.12169
 <br><a href = "https://arxiv.org/abs/2406.12169" target="_blank"> [pdf] </a>
+</li>
+
+<li> Graph-Bert: Only Attention is Needed for Learning Graph Representations
+<br>Jiawei Zhang, <b>Haopeng Zhang</b>, Li Sun, Congying Xia
+<br>arXiv preprint arXiv:2001.05140
+<br><a href = "https://arxiv.org/abs/2001.05140" target="_blank"> [pdf] </a><a href = "https://github.com/jwzhanggy/Graph-Bert"> [code] </a>
 </li>
 <!-- <li> Extractive Summarization via ChatGPT for Faithful Summary Generation
 <br><b>Haopeng Zhang</b>, Xiao Liu, Jiawei Zhang
 <br>arXiv preprint arXiv:2304.04193
 <br><a href = "https://arxiv.org/abs/2304.04193" target="_blank"> [pdf] </a>
 </li> -->
-<li> A Structure-aware Generative Model for Biomedical Event Extraction
-<br> Haohan Yuan*, Siu Cheung Hui, <b>Haopeng Zhang</b>
-<br> arXiv preprint arXiv:2304.04193
-<br><a href = "https://arxiv.org/abs/2408.06583" target="_blank"> [pdf] </a>
-</li>
-
 </ol>
 
 
