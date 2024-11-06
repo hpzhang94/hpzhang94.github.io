@@ -30,6 +30,8 @@ I earned my Ph.D. in Computer Science from UC Davis under the supervision of <a 
 	- Graph4NLP
 
 ## News
+- 11.2024: Excited to organize the 5th Workshop on New Frontiers in Summarization (NewSumm) at EMNLP 2025.
+- 11.2024: Honored to serve as an area chair for ACL 2025 and as a minitrack chair for AMCIS 2025.
 - 10.2024: one research paper on <a href = "https://arxiv.org/pdf/2410.15687" target="_blank"> [summmarization domain adaptation]</a> is available on arXiv.
 - 10.2024: Excited to receive computing credit awards from Google Cloud.
 - 09.2024: Honored to serve as a panelist for NSF.
