@@ -20,7 +20,7 @@ layout: page
   - Deep Learning: NN, vision, NLP, diffusion, RL
 - **Syllabus**: <a href="https://docs.google.com/document/d/1C6cp5uoKMmVxb7rLkaFB7VUB31MGUUh0V5lbyxmN_tU/edit?usp=sharing" target="_blank">syllabus</a>
 - **Schedule**: <a href="https://docs.google.com/spreadsheets/d/1IFl1YT_RGwHYZGlF5kFqKpIy8dBpD-BHsWU7dUMv6Mw/edit?usp=sharing" target="_blank">schedule</a>
-- **Assignment/Announcement**: <a href="https://laulima.hawaii.edu/portal/site/MAN.83602.202530" target="_blank">435</a><a href="https://laulima.hawaii.edu/portal/site/MAN.86260.202530" target="_blank">635</a>
+- **Assignment/Announcement**: <a href="https://laulima.hawaii.edu/portal/site/MAN.83602.202530" target="_blank">435</a>, <a href="https://laulima.hawaii.edu/portal/site/MAN.86260.202530" target="_blank">635</a>
 
 
 
