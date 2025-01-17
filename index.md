@@ -17,10 +17,10 @@ I earned my Ph.D. in Computer Science from UC Davis under the supervision of <a 
 
 ## Research Interests:
 
-- Natural Language Processing: Text Summarization & Generation, Misinformation & Information Retrieval
-- Generative AI: Large Language Models, Large Multi-modal Foundation Models
-- NLP for social good: Indigenous culture, Climate change, Healthcare
-- Graph Mining: Graph4NLP
+- **NLP**: Summarization, Generation, Misinformation, Information Retrieval
+- **Generative AI**: Large Language Models, Large Multi-modal Foundation Models
+- **NLP for social good**: Indigenous culture, Climate change, Healthcare
+- **Graph Mining**: Graph4NLP
 
 ## News
 - 01.2025: One survey paper on <a href = "https://arxiv.org/abs/2406.11289" target="_blank"> [text summarization]</a> is accepted to ACM Computing Surveys (IF:23.8).

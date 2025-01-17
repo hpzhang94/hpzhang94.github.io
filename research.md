@@ -19,12 +19,6 @@ title: Publications
 <br><a href = "https://arxiv.org/abs/2408.06583" target="_blank"> [pdf] </a>
 </li>
 
-<li> A Systematic Survey of Text Summarization: From Statistical Methods to Large Language Models
-<br><b>Haopeng Zhang</b>, Philip S. Yu, Jiawei Zhang
-<br>arXiv preprint arXiv:2406.11289
-<br><a href = "https://arxiv.org/abs/2406.11289" target="_blank"> [pdf] </a>
-</li>
-
 <li>Intermediate Distillation: Data-Efficient Distillation from Black-Box LLMs for Information Retrieval
 <br>Zizhong Li, <b>Haopeng Zhang</b>, Jiawei Zhang
 <br>arXiv preprint arXiv:2406.12169
@@ -46,6 +40,12 @@ title: Publications
 
 ## Conferences
 <ol>
+
+<li> A Systematic Survey of Text Summarization: From Statistical Methods to Large Language Models
+<br><b>Haopeng Zhang</b>, Philip S. Yu, Jiawei Zhang
+<br>ACM Computing Surveys
+<br><a href = "https://arxiv.org/abs/2406.11289" target="_blank"> [pdf] </a>
+</li>
 
 <li> Building Intelligent and Reliable Summarization Systems
 <br><b>Haopeng Zhang</b>
