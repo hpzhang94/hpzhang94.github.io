@@ -3,24 +3,24 @@ title: Teaching
 layout: page
 ---
 
-
-### `ICS 435/635 Machine Learning`
+#### `ICS 661 Advanced AI (Fall 2024)`
+### `ICS 435/635 Machine Learning (Spring 2025)`
 
 - **Time**: Tuesday and Thursday 3:00 - 4:15 pm
 - **Location**: POST 126
 - **Professor Information**: 
   - Professor: Haopeng Zhang 
   - Email: haopengz@hawaii.edu
-  - Office Hours: Wednesday 1-2 pm, POST 309C
+  - Office Hours: Tuesday 2-3 pm, POST 309C
 - **Prerequisites**
   - Programming in Python
   - ICS 235 Machine Learning Methods
 - **Topics**: 
-  - Machine Learning: Supervised, Unsupervised, regression, Bayesian
+  - Statistical Machine Learning: Supervised, Unsupervised, regression, Bayesian
   - Deep Learning: NN, vision, NLP, diffusion, RL
 - **Syllabus**: <a href="https://docs.google.com/document/d/1C6cp5uoKMmVxb7rLkaFB7VUB31MGUUh0V5lbyxmN_tU/edit?usp=sharing" target="_blank">syllabus</a>
 - **Schedule**: <a href="https://docs.google.com/spreadsheets/d/1IFl1YT_RGwHYZGlF5kFqKpIy8dBpD-BHsWU7dUMv6Mw/edit?usp=sharing" target="_blank">schedule</a>
-- **Assignment/Announcement**: <a href="https://laulima.hawaii.edu/portal/site/MAN.83602.202530" target="_blank">435</a>, <a href="https://laulima.hawaii.edu/portal/site/MAN.86260.202530" target="_blank">635</a>
+- **Assignment/Announcement**: <a href="https://laulima.hawaii.edu/portal/site/MAN.83602.202530" target="_blank">Laulima 435</a>, <a href="https://laulima.hawaii.edu/portal/site/MAN.86260.202530" target="_blank">Laulima 635</a>
 
 
 
