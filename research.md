@@ -7,11 +7,6 @@ title: Publications
 ## Preprints
 <ol>
 
-<li> DomainSum: A Hierarchical Benchmark for Fine-Grained Domain Shift in Abstractive Text Summarization
-<br> Haohan Yuan*, <b>Haopeng Zhang</b>
-<br> arXiv preprint arXiv:2410.15687
-<br><a href = "https://arxiv.org/abs/2410.15687" target="_blank"> [pdf] </a> <a href = "https://github.com/hpzhang94/DomainSum"> [data, code] </a>
-</li>
 
 <li> A Structure-aware Generative Model for Biomedical Event Extraction
 <br> Haohan Yuan*, Siu Cheung Hui, <b>Haopeng Zhang</b>
@@ -38,8 +33,14 @@ title: Publications
 </ol>
 
 
-## Conferences
+## Publications
 <ol>
+
+<li> DomainSum: A Hierarchical Benchmark for Fine-Grained Domain Shift in Abstractive Text Summarization
+<br> Haohan Yuan*, <b>Haopeng Zhang</b>
+<br> NAACL 2025 Findings
+<br><a href = "https://arxiv.org/abs/2410.15687" target="_blank"> [pdf] </a> <a href = "https://github.com/hpzhang94/DomainSum"> [data, code] </a>
+</li>
 
 <li> A Systematic Survey of Text Summarization: From Statistical Methods to Large Language Models
 <br><b>Haopeng Zhang</b>, Philip S. Yu, Jiawei Zhang
