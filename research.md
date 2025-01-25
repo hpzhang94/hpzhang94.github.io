@@ -36,9 +36,16 @@ title: Publications
 ## Publications
 <ol>
 
+
+<li> A Structure-aware Generative Model for Biomedical Event Extraction
+<br> Haohan Yuan*, Siu Cheung Hui, <b>Haopeng Zhang</b>
+<br> 30th International Conference on Database Systems for Advanced Applications <b>(DASFAA 2025})</b>
+<br><a href = "https://www.arxiv.org/abs/2408.06583" target="_blank"> [pdf] </a>
+</li>
+
 <li> DomainSum: A Hierarchical Benchmark for Fine-Grained Domain Shift in Abstractive Text Summarization
 <br> Haohan Yuan*, <b>Haopeng Zhang</b>
-<br> NAACL 2025 Findings
+<br> Findings of the Association for Computational Linguistics: NAACL 2025 <b>(NAACL 2025)</b> 
 <br><a href = "https://arxiv.org/abs/2410.15687" target="_blank"> [pdf] </a> <a href = "https://github.com/hpzhang94/DomainSum"> [data, code] </a>
 </li>
 

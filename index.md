@@ -23,6 +23,7 @@ I earned my Ph.D. in Computer Science from UC Davis under the supervision of <a 
 - **Graph Mining**: Graph4NLP
 
 ## News
+- 01.2025: One research paper <a href = "https://www.arxiv.org/abs/2408.06583" target="_blank"> [A Structure-aware Generative Model for Biomedical Event Extraction]</a> is accepted to DASFAA 2025.
 - 01.2025: Excited to receive $7,500 computing credits from OpenAI’s Researcher Access Program.
 - 01.2025: One research paper on <a href = "https://arxiv.org/pdf/2410.15687" target="_blank"> [summmarization domain adaptation]</a> is accepted to findings of NAACL 2025.
 - 01.2025: One survey paper on <a href = "https://arxiv.org/abs/2406.11289" target="_blank"> [text summarization]</a> is accepted to ACM Computing Surveys (IF:23.8).
