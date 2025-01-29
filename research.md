@@ -7,13 +7,6 @@ title: Publications
 ## Preprints
 <ol>
 
-
-<li> A Structure-aware Generative Model for Biomedical Event Extraction
-<br> Haohan Yuan*, Siu Cheung Hui, <b>Haopeng Zhang</b>
-<br> arXiv preprint arXiv:2304.04193
-<br><a href = "https://arxiv.org/abs/2408.06583" target="_blank"> [pdf] </a>
-</li>
-
 <li>Intermediate Distillation: Data-Efficient Distillation from Black-Box LLMs for Information Retrieval
 <br>Zizhong Li, <b>Haopeng Zhang</b>, Jiawei Zhang
 <br>arXiv preprint arXiv:2406.12169
@@ -39,7 +32,7 @@ title: Publications
 
 <li> A Structure-aware Generative Model for Biomedical Event Extraction
 <br> Haohan Yuan*, Siu Cheung Hui, <b>Haopeng Zhang</b>
-<br> 30th International Conference on Database Systems for Advanced Applications <b>(DASFAA 2025})</b>
+<br> 30th International Conference on Database Systems for Advanced Applications <b>(DASFAA 2025)</b>
 <br><a href = "https://www.arxiv.org/abs/2408.06583" target="_blank"> [pdf] </a>
 </li>
 
