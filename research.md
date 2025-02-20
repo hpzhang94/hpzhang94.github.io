@@ -7,6 +7,12 @@ title: Publications
 ## Preprints
 <ol>
 
+<li>Wi-Chat: Large Language Model Powered Wi-Fi Sensing
+<br><b>Haopeng Zhang</b>, Yili Ren, Haohan Yuan, Jingzhe Zhang, Yitong Shen
+<br>arXiv preprint arXiv:2502.12421
+<br><a href = "https://arxiv.org/abs/2502.12421" target="_blank"> [pdf] </a>
+</li>
+
 <li>Intermediate Distillation: Data-Efficient Distillation from Black-Box LLMs for Information Retrieval
 <br>Zizhong Li, <b>Haopeng Zhang</b>, Jiawei Zhang
 <br>arXiv preprint arXiv:2406.12169
