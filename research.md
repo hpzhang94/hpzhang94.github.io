@@ -30,6 +30,12 @@ title: Publications
 ## Publications
 <ol>
 
+<li>Boosting Multimodal Reasoning with Implicit Chain-of-Vision Finetuning
+<br>Yiqiao Huang, Zhaorun Chen, He Qi, <b>Haopeng Zhang</b>, Hanchao Yu, Zhuokai Zhao
+<br>Multimodal Algorithmic Reasoning workshop at CVPR 2025 <b>(MAR 2025)</b>
+<br><a href = "https://arxiv.org/abs/2406.12169" target="_blank"> [pdf] </a>
+</li>
+
 <li>Intermediate Distillation: Data-Efficient Distillation from Black-Box LLMs for Information Retrieval
 <br>Zizhong Li, <b>Haopeng Zhang</b>, Jiawei Zhang
 <br>International Joint Conference on Neural Networks 2025 <b>(IJCNN 2025)</b>

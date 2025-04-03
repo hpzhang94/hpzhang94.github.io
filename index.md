@@ -24,6 +24,8 @@ I earned my Ph.D. in Computer Science from UC Davis under the supervision of <a 
 
 
 ## News
+- 04.2025: One research paper on <a href = "https://arxiv.org/abs/2406.12169" target="_blank"> [Multimodal Reasoning]</a> has been accepted to the Multimodal Algorithmic Reasoning workshop at CVPR 2025.
+
 - 04.2025: One research paper on <a href = "https://arxiv.org/abs/2406.12169" target="_blank"> [retrieval augmented generation]</a> is accepted to IJCNN 2025.
 - 02.2025: Thrilled to receive the UH Manoa Faculty Research Travel Fund! Looking forward to NAACL 2025 in Albuquerque.
 - 02.2025: Excited to share that my research has been featured in  <a href = "https://www.hawaii.edu/news/2025/02/07/ai-breakthroughs-healthcare-education-more/" target="_blank"> [University of Hawaii News]</a>.
