@@ -13,11 +13,6 @@ title: Publications
 <br><a href = "https://arxiv.org/abs/2502.12421" target="_blank"> [pdf] </a>
 </li>
 
-<li>Intermediate Distillation: Data-Efficient Distillation from Black-Box LLMs for Information Retrieval
-<br>Zizhong Li, <b>Haopeng Zhang</b>, Jiawei Zhang
-<br>arXiv preprint arXiv:2406.12169
-<br><a href = "https://arxiv.org/abs/2406.12169" target="_blank"> [pdf] </a>
-</li>
 
 <li> Graph-Bert: Only Attention is Needed for Learning Graph Representations
 <br>Jiawei Zhang, <b>Haopeng Zhang</b>, Li Sun, Congying Xia
@@ -35,6 +30,11 @@ title: Publications
 ## Publications
 <ol>
 
+<li>Intermediate Distillation: Data-Efficient Distillation from Black-Box LLMs for Information Retrieval
+<br>Zizhong Li, <b>Haopeng Zhang</b>, Jiawei Zhang
+<br>International Joint Conference on Neural Networks 2025 <b>(IJCNN 2025)</b>
+<br><a href = "https://arxiv.org/abs/2406.12169" target="_blank"> [pdf] </a>
+</li>
 
 <li> A Structure-aware Generative Model for Biomedical Event Extraction
 <br> Haohan Yuan*, Siu Cheung Hui, <b>Haopeng Zhang</b>
