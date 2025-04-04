@@ -7,7 +7,7 @@ layout: home
 
 I am a tenure-track assistant professor in the information and computer sciences (ICS) department of <a href="https://www.ics.hawaii.edu/"><u>University of Hawaii at Mānoa</u></a>. 
 
-#### I have 2 openings for Fall 2025 for self-motivated PhD students.
+#### I have multiple openings for self-motivated PhD students starting in Fall 2025, Spring 2026, and Fall 2026.
 
 
 ## Biography
@@ -17,15 +17,14 @@ I earned my Ph.D. in Computer Science from UC Davis under the supervision of <a 
 
 ## Research Interests:
 
-- **NLP**: Summarization, Generation, Misinformation, Information Retrieval
-- **Generative AI**: Large Language Models, Large Multi-modal Foundation Models
-- **NLP for social good**: Indigenous culture, Climate change, Healthcare
+- **NLP**: Summarization, Generation, Information Retrieval
+- **Generative AI**: LLMs, Vision LLMs, Multi-modal Foundation Models
+- **NLP for social good**: Indigenous Culture, Climate Change, Healthcare
 - **Graph Mining**: Graph4NLP
 
 
 ## News
 - 04.2025: One research paper on <a href = "https://arxiv.org/abs/2406.12169" target="_blank"> [Multimodal Reasoning]</a> has been accepted to the Multimodal Algorithmic Reasoning workshop at CVPR 2025.
-
 - 04.2025: One research paper on <a href = "https://arxiv.org/abs/2406.12169" target="_blank"> [retrieval augmented generation]</a> is accepted to IJCNN 2025.
 - 02.2025: Thrilled to receive the UH Manoa Faculty Research Travel Fund! Looking forward to NAACL 2025 in Albuquerque.
 - 02.2025: Excited to share that my research has been featured in  <a href = "https://www.hawaii.edu/news/2025/02/07/ai-breakthroughs-healthcare-education-more/" target="_blank"> [University of Hawaii News]</a>.
