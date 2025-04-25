@@ -30,6 +30,12 @@ title: Publications
 ## Publications
 <ol>
 
+<li>Haptic Simulation Workstation For Prostate Brachytherapy Training
+<br>Bardia Konh, Rex Imanaka, Mitchell Kamrava, <b>Haopeng Zhang</b>
+<br>2025 ABS Annual Conference
+<!-- <br><a href = "https://arxiv.org/abs/2406.12169" target="_blank"> [pdf] </a> -->
+</li>
+
 <li>Boosting Multimodal Reasoning with Implicit Chain-of-Vision Finetuning
 <br>Yiqiao Huang, Zhaorun Chen, He Qi, <b>Haopeng Zhang</b>, Hanchao Yu, Zhuokai Zhao
 <br>Multimodal Algorithmic Reasoning workshop at CVPR 2025 <b>(MAR 2025)</b>

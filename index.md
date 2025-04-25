@@ -12,18 +12,20 @@ I am a tenure-track assistant professor in the information and computer sciences
 
 ## Biography
 
-I earned my Ph.D. in Computer Science from UC Davis under the supervision of <a href="http://jiaweizhang.net/"><u>Dr. Jiawei Zhang</u></a>. I hold two M.S. in Electrical Engineering / Computational Science from the Georgia Institute of Technology and a B.S. in Electrical Engineering from the University of Illinois at Urbana-Champaign (UIUC). My research interests include natural language processing (NLP), generative AI, graph mining and NLP for social good. 
+Dr. Haopeng Zhang earned his Ph.D. in Computer Science from the University of California, Davis, under the supervision of <a href="http://jiaweizhang.net/"><u>Dr. Jiawei Zhang</u></a>. He holds two M.S. degrees in Electrical Engineering / Computational Science from the Georgia Institute of Technology, and a B.S. in Electrical Engineering from the University of Illinois at Urbana-Champaign (UIUC). His research interests include natural language processing (NLP), generative AI, and NLP for science.
 
 
 ## Research Interests:
 
-- **NLP**: Summarization, Generation, Information Retrieval
-- **Generative AI**: LLMs, Vision LLMs, Multi-modal Foundation Models
-- **NLP for social good**: Indigenous Culture, Climate Change, Healthcare
+- **NLP**: Summarization, generation， low-resource languages
+- **Generative AI**: LLMs, vision-language models, and multimodal foundation models
+- **NLP4Science**: Cognitive science, healthcare
 - **Graph Mining**: Graph4NLP
 
 
 ## News
+
+- 04.2025: Happy to join the <a href = "https://www.uhcancercenter.org/" target="_blank"> [University of Hawaii Cancer Center (UHCC)]</a> as an Affiliate Member.
 - 04.2025: One research paper on <a href = "https://arxiv.org/abs/2406.12169" target="_blank"> [Multimodal Reasoning]</a> has been accepted to the Multimodal Algorithmic Reasoning workshop at CVPR 2025.
 - 04.2025: One research paper on <a href = "https://arxiv.org/abs/2406.12169" target="_blank"> [retrieval augmented generation]</a> is accepted to IJCNN 2025.
 - 02.2025: Thrilled to receive the UH Manoa Faculty Research Travel Fund! Looking forward to NAACL 2025 in Albuquerque.
