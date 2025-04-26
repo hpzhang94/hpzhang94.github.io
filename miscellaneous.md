@@ -12,6 +12,6 @@ I have a cute cat named July.
 
 ## Besides research
 
-I am a huge fan of Jay Chou and Lebron James. I also love traveling. 
+I'm a huge fan of Jay Chou and LeBron James. I also enjoy reading novels, sipping whiskey, traveling, snorkeling, and hiking.
 
 

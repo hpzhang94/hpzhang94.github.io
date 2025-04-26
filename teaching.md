@@ -4,6 +4,7 @@ layout: page
 ---
 
 #### `ICS 661 Advanced AI (Fall 2024)`
+#### `ICS 691 Advanced NLP and LLM (Fall 2025)`
 ### `ICS 435/635 Machine Learning (Spring 2025)`
 
 - **Time**: Tuesday and Thursday 3:00 - 4:15 pm

@@ -17,8 +17,8 @@ Dr. Haopeng Zhang earned his Ph.D. in Computer Science from the University of Ca
 
 ## Research Interests:
 
-- **NLP**: Summarization, generation， low-resource languages
-- **Generative AI**: LLMs, vision-language models, and multimodal foundation models
+- **NLP**: Summarization, generation, low-resource languages
+- **Generative AI**: LLMs, vision-language models, multimodal foundation models
 - **NLP4Science**: Cognitive science, healthcare
 - **Graph Mining**: Graph4NLP
 
