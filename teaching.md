@@ -13,6 +13,8 @@ layout: page
   - Professor: Haopeng Zhang 
   - Email: haopengz@hawaii.edu
   - Office Hours: Tuesday 2-3 pm, POST 309C
+
+
 <!--   - TA: Christoph Haring 
   - Email: charing@hawaii.edu
   - Office Hours: Friday 11-12:30, POST 303C
