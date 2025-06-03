@@ -7,12 +7,31 @@ title: Publications
 ## Preprints
 <ol>
 
-<li>Wi-Chat: Large Language Model Powered Wi-Fi Sensing
-<br><b>Haopeng Zhang</b>, Yili Ren, Haohan Yuan, Jingzhe Zhang, Yitong Shen
-<br>arXiv preprint arXiv:2502.12421
-<br><a href = "https://arxiv.org/abs/2502.12421" target="_blank"> [pdf] </a>
+
+<li> MermaidFlow: Redefining Agentic Workflow Generation via Safety-Constrained Evolutionary
+Programming
+<br> Chengqi Zheng, Jianda Chen, Yueming Lyu, Wen Zheng Terence Ng, <b>Haopeng Zhang</b>, Yew-Soon Ong, Ivor Tsang, Haiyan Yin
+<br>arXiv preprint arXiv:2505.22967
+<br><a href = "https://arxiv.org/abs/2505.22967" target="_blank"> [pdf] </a><a href = "https://github.com/chengqiArchy/MermaidFlow"> [code] </a>
 </li>
 
+<li> StrucSum: Graph-Structured Reasoning for Long Document Extractive Summarization with LLMs
+<br>Haohan Yuan, <b>Haopeng Zhang</b>
+<br>arXiv preprint arXiv:2505.22950
+<br><a href = "https://arxiv.org/abs/2505.22950" target="_blank"> [pdf] </a><a href = "https://github.com/HaohanYuan01/StrucSum"> [code] </a>
+</li>
+
+<li> FormosanBench: Benchmarking Low-Resource Austronesian Languages in the Era of Large Language Models
+<br>Kaiying Lin, Hsiyu Chen, <b>Haopeng Zhang</b>
+<!-- <br>arXiv preprint arXiv:2001.05140
+<br><a href = "https://arxiv.org/abs/2001.05140" target="_blank"> [pdf] </a><a href = "https://github.com/jwzhanggy/Graph-Bert"> [code] </a> -->
+</li>
+
+<li> Multimodal Summarization of Text, Images, and Video: A Unified Survey
+<br><b>Haopeng Zhang</b>
+<!-- <br>arXiv preprint arXiv:2505.22950
+<br><a href = "https://arxiv.org/abs/2505.22950" target="_blank"> [pdf] </a><a href = "https://github.com/HaohanYuan01/StrucSum"> [code] </a> -->
+</li>
 
 <li> Graph-Bert: Only Attention is Needed for Learning Graph Representations
 <br>Jiawei Zhang, <b>Haopeng Zhang</b>, Li Sun, Congying Xia
@@ -30,19 +49,32 @@ title: Publications
 ## Publications
 <ol>
 
-<li>Haptic Simulation Workstation For Prostate Brachytherapy Training
+
+<li> Wi-Chat: Large Language Model Powered Wi-Fi Sensing
+<br><b>Haopeng Zhang</b>*, Yili Ren*, Haohan Yuan, Jingzhe Zhang, Yitong Shen
+<br>The 3rd International Workshop on Advances in Environmental Sensing Systems for Smart
+Cities <b>(EnvSys 25)</b>
+<br> Proceedings of the 23rd ACM International Conference on Mobile Systems,
+Applications, and Services <b>(MobiSys’25)</b> Posters
+<br><a href = "https://arxiv.org/abs/2502.12421" target="_blank"> [pdf] </a>
+</li>
+
+
+<li> Haptic Simulation Workstation For Prostate Brachytherapy Training
 <br>Bardia Konh, Rex Imanaka, Mitchell Kamrava, <b>Haopeng Zhang</b>
-<br>2025 ABS Annual Conference
+<br>Proceedings of the American Brachytherapy Society Annual
+Conference <b>(ABS 2025)</b>
 <!-- <br><a href = "https://arxiv.org/abs/2406.12169" target="_blank"> [pdf] </a> -->
 </li>
 
-<li>Boosting Multimodal Reasoning with Implicit Chain-of-Vision Finetuning
+<li> Boosting Multimodal Reasoning with Implicit Chain-of-Vision Finetuning
 <br>Yiqiao Huang, Zhaorun Chen, He Qi, <b>Haopeng Zhang</b>, Hanchao Yu, Zhuokai Zhao
-<br>Multimodal Algorithmic Reasoning workshop at CVPR 2025 <b>(MAR 2025)</b>
-<br><a href = "https://arxiv.org/abs/2406.12169" target="_blank"> [pdf] </a>
+<br>Multimodal Algorithmic Reasoning workshop at CVPR 2025 <b>(MAR 2025 Spotlight)</b>
+<br><a href = "https://drive.google.com/file/d/10rZay5F5rmeMAqmSiELADv2ChUJPkW_K/view" target="_blank"> [pdf] </a>
 </li>
 
-<li>Intermediate Distillation: Data-Efficient Distillation from Black-Box LLMs for Information Retrieval
+<li> Learning by ranking: Data-efficient knowledge distillation from
+black-box llms for information retrieval
 <br>Zizhong Li, <b>Haopeng Zhang</b>, Jiawei Zhang
 <br>International Joint Conference on Neural Networks 2025 <b>(IJCNN 2025)</b>
 <br><a href = "https://arxiv.org/abs/2406.12169" target="_blank"> [pdf] </a>
@@ -84,7 +116,7 @@ title: Publications
 <br><a href = "https://arxiv.org/abs/2309.11063" target="_blank"> [pdf] </a> <a href = "https://github.com/megagonlabs/xatu"> [code] </a>
 </li>
 <li> SummIt: Iterative Text Summarization via ChatGPT
-<br><b>Haopeng Zhang</b>, Xiao Liu, Jiawei Zhang
+<br><b>Haopeng Zhang</b>*, Xiao Liu*, Jiawei Zhang
 <br>Findings of the 2023 Conference on Empirical Methods in Natural Language Processing <b>(EMNLP 2023) </b>
 <br><a href = "http://arxiv.org/abs/2305.14835" target="_blank"> [pdf] </a> <a href = "https://github.com/hpzhang94/summ_it"> [code] </a>
 </li>

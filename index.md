@@ -7,7 +7,7 @@ layout: home
 
 I am a tenure-track assistant professor in the information and computer sciences (ICS) department of <a href="https://www.ics.hawaii.edu/"><u>University of Hawaii at Mānoa</u></a>. 
 
-#### I have multiple openings for self-motivated PhD students starting in Fall 2025, Spring 2026, and Fall 2026.
+<!-- #### I have multiple openings for self-motivated PhD students starting in Fall 2025, Spring 2026, and Fall 2026. -->
 
 
 ## Biography
