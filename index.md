@@ -25,6 +25,12 @@ Dr. Haopeng Zhang earned his Ph.D. in Computer Science from the University of Ca
 
 ## News
 
+
+- 05.2025: Recent papers now available on arXiv:  
+  <a href="https://arxiv.org/abs/2505.22950" target="_blank">Structurized Summarization</a>, 
+  <a href="https://arxiv.org/abs/2505.22967" target="_blank">Workflow Generation</a>,  
+  <a href="https://arxiv.org/abs/2505.22950" target="_blank">RAG Attack</a>,   
+  <a href="https://arxiv.org/abs/2505.22950" target="_blank">Multimodal Summarization Survey</a>.  
 - 04.2025: Happy to join the <a href = "https://www.uhcancercenter.org/" target="_blank"> [University of Hawaii Cancer Center (UHCC)]</a> as an Affiliate Member.
 - 04.2025: One research paper on <a href = "https://arxiv.org/abs/2406.12169" target="_blank"> [Multimodal Reasoning]</a> has been accepted to the Multimodal Algorithmic Reasoning workshop at CVPR 2025.
 - 04.2025: One research paper on <a href = "https://arxiv.org/abs/2406.12169" target="_blank"> [retrieval augmented generation]</a> is accepted to IJCNN 2025.
