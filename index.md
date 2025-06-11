@@ -5,33 +5,25 @@ layout: home
 # menuorder: 1
 ---
 
-I am a tenure-track assistant professor in the information and computer sciences (ICS) department of <a href="https://www.ics.hawaii.edu/"><u>University of Hawaii at Mānoa</u></a>. 
-
-<!-- #### I have multiple openings for self-motivated PhD students starting in Fall 2025, Spring 2026, and Fall 2026. -->
-
-
-## Biography
-
-Dr. Haopeng Zhang earned his Ph.D. in Computer Science from the University of California, Davis, under the supervision of <a href="http://jiaweizhang.net/"><u>Dr. Jiawei Zhang</u></a>. He holds two M.S. degrees in Electrical Engineering / Computational Science from the Georgia Institute of Technology, and a B.S. in Electrical Engineering from the University of Illinois at Urbana-Champaign (UIUC). His research interests include natural language processing (NLP), generative AI, and NLP for science.
-
+Haopeng Zhang is a tenure-track Assistant Professor in the Department of Information and Computer Sciences at the <a href="https://www.ics.hawaii.edu/"><u>University of Hawai‘i at Mānoa</u></a>, where he directs the ALOHA (Advanced Language Processing and Human Analytics) Lab. He received his Ph.D. in Computer Science from the University of California, Davis, advised by <a href="http://jiaweizhang.net/"><u>Dr. Jiawei Zhang</u></a>. He also holds dual M.S. degrees in Electrical Engineering and Computational Science from the Georgia Institute of Technology, and a B.S. in Electrical Engineering from the University of Illinois at Urbana-Champaign (UIUC). His research focuses on NLP, LLM, and AI4science
 
 ## Research Interests:
-
-- **NLP**: Summarization, generation, low-resource languages
-- **Generative AI**: LLMs, vision-language models, multimodal foundation models
-- **NLP4Science**: Cognitive science, healthcare
+I am broadly interested in Natural Language Processing, Machine Learning, and Artificial Intelligence, especially focusing on
+- **NLP**: Summarization, Generation, Low-Resource Languages
+- **Generative AI**: LLMs, VLLMs, Multimodal Foundation Models
+- **AI4Science**: Healthcare, Linguistics, Sensing, Nutrition
 - **Graph Mining**: Graph4NLP
 
 
 ## News
 
-
-- 05.2025: Recent papers now available on arXiv: <a href="https://arxiv.org/abs/2505.22950" target="_blank">[Structurized Summarization]</a>, <a href="https://arxiv.org/abs/2505.22967" target="_blank">[Workflow Generation]</a>, <a href="https://arxiv.org/abs/2505.22950" target="_blank">[RAG Attack]</a>, and <a href="https://arxiv.org/abs/2505.22950" target="_blank">[Multimodal Summarization Survey]</a>.  
+<div style="max-height: 350px; overflow-y: scroll; border: 1px solid #e0e0e0; padding: 15px; border-radius: 5px;">
+- 05.2025: Recent papers now available on arXiv: <a href="https://arxiv.org/abs/2505.22950" target="_blank">[Structurized Summarization]</a>, <a href="https://arxiv.org/abs/2505.22967" target="_blank">[Workflow Generation]</a>, <a href="https://arxiv.org/abs/2505.22950" target="_blank">[RAG Attack]</a>, and <a href="https://arxiv.org/abs/2505.22950" target="_blank">[Multimodal Summarization Survey]</a>.  
 - 04.2025: Happy to join the <a href = "https://www.uhcancercenter.org/" target="_blank"> [University of Hawaii Cancer Center (UHCC)]</a> as an Affiliate Member.
 - 04.2025: One research paper on <a href = "https://arxiv.org/abs/2406.12169" target="_blank"> [Multimodal Reasoning]</a> has been accepted to the Multimodal Algorithmic Reasoning workshop at CVPR 2025.
 - 04.2025: One research paper on <a href = "https://arxiv.org/abs/2406.12169" target="_blank"> [retrieval augmented generation]</a> is accepted to IJCNN 2025.
 - 02.2025: Thrilled to receive the UH Manoa Faculty Research Travel Fund! Looking forward to NAACL 2025 in Albuquerque.
-- 02.2025: Excited to share that my research has been featured in  <a href = "https://www.hawaii.edu/news/2025/02/07/ai-breakthroughs-healthcare-education-more/" target="_blank"> [University of Hawaii News]</a>.
+- 02.2025: Excited to share that my research has been featured in  <a href = "https://www.hawaii.edu/news/2025/02/07/ai-breakthroughs-healthcare-education-more/" target="_blank"> [University of Hawaii News]</a>.
 - 02.2025: One research paper <a href = "https://arxiv.org/abs/2502.12421" target="_blank"> [Wi-Chat: Large Language Model Powered Wi-Fi Sensing]</a> is now available on arXiv.
 - 01.2025: One research paper <a href = "https://www.arxiv.org/abs/2408.06583" target="_blank"> [A Structure-aware Generative Model for Biomedical Event Extraction]</a> is accepted to DASFAA 2025.
 - 01.2025: Excited to receive $7,500 computing credits from OpenAI’s Researcher Access Program.
@@ -46,10 +38,13 @@ Dr. Haopeng Zhang earned his Ph.D. in Computer Science from the University of Ca
 - 06.2024: My Ph.D. dissertation <a href = "https://escholarship.org/uc/item/7zn0b66s" target="_blank">[Building Intelligent and Reliable Summarization Systems]</a> and one survey paper on <a href = "https://arxiv.org/abs/2406.11289" target="_blank"> [text summarization]</a> is available online.
 - 06.2024: one research paper on <a href = "https://arxiv.org/abs/2406.12169" target="_blank">[LLM knowledge distillation]</a> is available on arXiv.
 - 05.2024: 🎓 Successfully Completed My Ph.D. at UC Davis. Officially Dr. Zhang!
-- 04.2024: 🎉 I will join the information and computer science (ICS) department of <a href="https://www.ics.hawaii.edu/"><u>University of Hawaii at Mānoa</u></a> this Augest. Aloha! 
+- 04.2024: 🎉 I will join the information and computer science (ICS) department of <a href="https://www.ics.hawaii.edu/"><u>University of Hawaii at Mānoa</u></a> this Augest. Aloha! 
 - 03.2024: one research paper is accepted to NAACL 2024.
 - 02.2024: one first-authored research paper is accepted to LREC-COLING 2024.
 
+</div>
+
+<br>
 <!-- - 10.2023: two first-authored research papers are accepted to Findings of EMNLP 2023.
 - 09.2023: serve as PC member for SDM 24.
 - 09.2023: one first-authored research paper is accepted to IJCNLP-AACL 2023.
