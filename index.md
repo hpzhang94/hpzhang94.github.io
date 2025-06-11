@@ -24,7 +24,6 @@ I am broadly interested in Natural Language Processing, Machine Learning, and Ar
 - 04.2025: One research paper on <a href = "https://arxiv.org/abs/2406.12169" target="_blank"> [retrieval augmented generation]</a> is accepted to IJCNN 2025.
 - 02.2025: Thrilled to receive the UH Manoa Faculty Research Travel Fund! Looking forward to NAACL 2025 in Albuquerque.
 - 02.2025: Excited to share that my research has been featured in  <a href = "https://www.hawaii.edu/news/2025/02/07/ai-breakthroughs-healthcare-education-more/" target="_blank"> [University of Hawaii News]</a>.
-- 02.2025: One research paper <a href = "https://arxiv.org/abs/2502.12421" target="_blank"> [Wi-Chat: Large Language Model Powered Wi-Fi Sensing]</a> is now available on arXiv.
 - 01.2025: One research paper <a href = "https://www.arxiv.org/abs/2408.06583" target="_blank"> [A Structure-aware Generative Model for Biomedical Event Extraction]</a> is accepted to DASFAA 2025.
 - 01.2025: Excited to receive $7,500 computing credits from OpenAI’s Researcher Access Program.
 - 01.2025: One research paper on <a href = "https://arxiv.org/pdf/2410.15687" target="_blank"> [summmarization domain adaptation]</a> is accepted to findings of NAACL 2025.
@@ -36,16 +35,11 @@ I am broadly interested in Natural Language Processing, Machine Learning, and Ar
 - 09.2024: Glad to receive computing credits from NSF ACCESS Allocations program.
 - 08.2024: Thrilled to attend NSF Innovation, Culture, and Creativity (ICC) workshop.
 - 06.2024: My Ph.D. dissertation <a href = "https://escholarship.org/uc/item/7zn0b66s" target="_blank">[Building Intelligent and Reliable Summarization Systems]</a> and one survey paper on <a href = "https://arxiv.org/abs/2406.11289" target="_blank"> [text summarization]</a> is available online.
-- 06.2024: one research paper on <a href = "https://arxiv.org/abs/2406.12169" target="_blank">[LLM knowledge distillation]</a> is available on arXiv.
 - 05.2024: 🎓 Successfully Completed My Ph.D. at UC Davis. Officially Dr. Zhang!
 - 04.2024: 🎉 I will join the information and computer science (ICS) department of <a href="https://www.ics.hawaii.edu/"><u>University of Hawaii at Mānoa</u></a> this Augest. Aloha! 
 - 03.2024: one research paper is accepted to NAACL 2024.
 - 02.2024: one first-authored research paper is accepted to LREC-COLING 2024.
-
-</div>
-
-<br>
-<!-- - 10.2023: two first-authored research papers are accepted to Findings of EMNLP 2023.
+- 10.2023: two first-authored research papers are accepted to Findings of EMNLP 2023.
 - 09.2023: serve as PC member for SDM 24.
 - 09.2023: one first-authored research paper is accepted to IJCNLP-AACL 2023.
 - 06.2023: start my research internship at AWS AI lab.
@@ -54,10 +48,13 @@ I am broadly interested in Natural Language Processing, Machine Learning, and Ar
 - 05.2023: one first-authored research paper is accepted to ACL 2023 CODI. 
 - 05.2023: one first-authored research paper is accepted to Findings of ACL 2023.
 - 04.2023: start my research internship at Megagon Lab.
-- 04.2023: one research paper <a href = "https://arxiv.org/abs/2304.04193" target="_blank">[Extractive Summarization via ChatGPT for Faithful Summary Generation]</a> is available on arXiv. 
 - 03.2023: receive UC Davis GGCS Research Fellowship.
 - 03.2023: serve as reviewer for ACL 23, IEEE TASLP, IEEE Transactions on Big Data.
-- 02.2023: passed my QE exam. -->
+- 02.2023: passed my QE exam.
+
+</div>
+
+<br>
 
 <a href="https://info.flagcounter.com/pYGa"><img src="https://s11.flagcounter.com/count2/pYGa/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_30/viewers_0/labels_0/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
