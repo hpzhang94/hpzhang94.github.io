@@ -11,8 +11,8 @@ I have a cute cat named July.
 
 ## My cat
 I have a cute cat named July.
-<img src="./images/IMG_0736.jpg" alt="Cute CAT" height="200">
-<img src="./images/IMG_8109.JPG" alt="Cute CAT" height="200">
+![Cute CAT](./images/IMG_0736.jpg){:height="200px"}
+![Cute CAT](./images/IMG_8109.JPG){:height="200px"}
 
 
 ## Besides research
