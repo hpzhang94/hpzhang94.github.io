@@ -25,13 +25,6 @@ title: Publications
 <ol>
 
 <li>
-<span class="paper-title">MermaidFlow: Redefining Agentic Workflow Generation via Safety-Constrained Evolutionary Programming</span>
-<br>Chengqi Zheng, Jianda Chen, Yueming Lyu, Wen Zheng Terence Ng, <b>Haopeng Zhang</b>, Yew-Soon Ong, Ivor Tsang, Haiyan Yin
-<br>arXiv preprint arXiv:2505.22967
-<br><a href="https://arxiv.org/abs/2505.22967" target="_blank">[pdf]</a> <a href="https://github.com/chengqiArchy/MermaidFlow" target="_blank">[code]</a>
-</li>
-
-<li>
 <span class="paper-title">StrucSum: Graph-Structured Reasoning for Long Document Extractive Summarization with LLMs</span>
 <br>Haohan Yuan, <b>Haopeng Zhang</b>
 <br>arXiv preprint arXiv:2505.22950
@@ -41,26 +34,23 @@ title: Publications
 <li>
 <span class="paper-title">Token-Level Precise Attack on RAG: Searching for the Best Alternatives to Mislead Generation</span>
 <br>Zizhong Li, <b>Haopeng Zhang</b>, Jiawei Zhang
-<br><i>coming soon</i>
+<br>arXiv preprint arXiv:2508.03110
+<br><br><a href="https://arxiv.org/abs/2508.03110" target="_blank">[pdf]</a>
 </li>
 
 <li>
 <span class="paper-title">FormosanBench: Benchmarking Low-Resource Austronesian Languages in the Era of Large Language Models</span>
 <br>Kaiying Lin, Hsiyu Chen, <b>Haopeng Zhang</b>
-<br><i>coming soon</i>
+<br>arXiv preprint arXiv:2506.21563
+<br><br><a href="https://arxiv.org/abs/2506.21563" target="_blank">[pdf]</a>
 </li>
 
 <li>
-<span class="paper-title">Multimodal Summarization of Text, Images, and Video: A Unified Survey</span>
+<span class="paper-title">Bridging Multimodal and Video Summarization: A Unified Survey</span>
 <br><b>Haopeng Zhang</b>
 <br><i>coming soon</i>
 </li>
 
-<li>
-<span class="paper-title">The Negative Concord Mystery</span>
-<br>William O’Grady, <b>Haopeng Zhang</b>, Miseon Lee
-<br><i>coming soon</i>
-</li>
 
 <li>
 <span class="paper-title">A Revisit of Fake News Dataset with Augmented Fact-checking by ChatGPT</span>
@@ -83,30 +73,52 @@ title: Publications
 <ol>
 
 <li>
-<span class="paper-title">Wi-Chat: Large Language Model Powered Wi-Fi Sensing</span>
+  <span class="paper-title">The Negative Concord Mystery: Insights from a Language Model</span>
+  <br>William O’Grady, <b>Haopeng Zhang</b>, Miseon Lee
+  <br><i>MDPI <b>Information</b></i>
+</li>
+
+
+<li>
+  <span class="paper-title">MermaidFlow: Redefining Agentic Workflow Generation via Safety-Constrained Evolutionary Programming</span>
+  <br>Chengqi Zheng, Jianda Chen, Yueming Lyu, Wen Zheng Terence Ng, <b>Haopeng Zhang</b>, Yew-Soon Ong, Ivor Tsang, Haiyan Yin
+  <br><i><b>ICML 2025 MAS Workshop</b>: Multi-Agent Systems in the Era of Foundation Models</i>
+  <br><a href="https://arxiv.org/abs/2505.22967" target="_blank">[pdf]</a> <a href="https://github.com/chengqiArchy/MermaidFlow" target="_blank">[code]</a>
+</li>
+
+<li>
+  <span class="paper-title">Aiding LLMs with Clinical Scoresheets: No Improvement in Neurobehavioral Diagnostic Classification from Text Using Basic Prompting</span>
+  <br>Kaiying Lin, Abdur Rasool, Saimourya Surabhi, Cezmi Mutlu, <b>Haopeng Zhang</b>, Dennis Wall Paul, Peter Washington
+  <br><i><b>JMIR AI</b></i>
+  <br><a href="https://preprints.jmir.org/preprint/75030" target="_blank">[pdf]</a>
+</li>
+
+
+<li>
+<span class="paper-title">Wi‑Chat: Large Language Model‑powered Wi‑Fi‑based Human Activity Recognition</span>
 <br><b>Haopeng Zhang</b>*, Yili Ren*, Haohan Yuan, Jingzhe Zhang, Yitong Shen
-<br>The 3rd International Workshop on Advances in Environmental Sensing Systems for Smart Cities <b>(EnvSys 25)</b>
-<br>Proceedings of the 23rd ACM International Conference on Mobile Systems, Applications, and Services <b>(MobiSys’25)</b> Posters
+<br>The 3rd ACM International Workshop on Advances in Environmental Sensing Systems for Smart Cities <b>(EnvSys 25)</b>
+<br>23rd ACM International Conference on Mobile Systems, Applications, and Services <b>(MobiSys’25)</b> Posters
 <br><a href="https://arxiv.org/abs/2502.12421" target="_blank">[pdf]</a>
 </li>
 
 <li>
-<span class="paper-title">Haptic Simulation Workstation for Prostate Brachytherapy Training</span>
-<br>Bardia Konh, Rex Imanaka, Mitchell Kamrava, <b>Haopeng Zhang</b>
-<br>Proceedings of the American Brachytherapy Society Annual Conference <b>(ABS 2025)</b>
+  <span class="paper-title">Haptic Simulation Workstation for Prostate Brachytherapy Training</span>
+  <br>Bardia Konh, Rex Imanaka, Mitchell Kamrava, <b>Haopeng Zhang</b>
+  <br><i>American Brachytherapy Society Annual Conference (<b>ABS 2025</b>)</i>
 </li>
 
 <li>
 <span class="paper-title">Boosting Multimodal Reasoning with Implicit Chain-of-Vision Finetuning</span>
 <br>Yiqiao Huang, Zhaorun Chen, He Qi, <b>Haopeng Zhang</b>, Hanchao Yu, Zhuokai Zhao
-<br>Multimodal Algorithmic Reasoning workshop at CVPR 2025 <b>(MAR 2025 Spotlight)</b>
-<br><a href="https://drive.google.com/file/d/10rZay5F5rmeMAqmSiELADv2ChUJPkW_K/view" target="_blank">[pdf]</a>
+<br><i>Multimodal Algorithmic Reasoning workshop at CVPR 2025 <b>(MAR 2025 Spotlight)</b></i>
+<br><a href="https://openaccess.thecvf.com/content/CVPR2025W/MAR/papers/Huang_Autonomous_Multimodal_Reasoning_via_Implicit_Chain-of-Vision_CVPRW_2025_paper.pdf" target="_blank">[pdf]</a>
 </li>
 
 <li>
 <span class="paper-title">Learning by Ranking: Data-efficient Knowledge Distillation from Black-box LLMs for Information Retrieval</span>
 <br>Zizhong Li, <b>Haopeng Zhang</b>, Jiawei Zhang
-<br>International Joint Conference on Neural Networks 2025 <b>(IJCNN 2025)</b>
+<br><i>International Joint Conference on Neural Networks 2025 <b>(IJCNN 2025)</b></i>
 <br><a href="https://arxiv.org/abs/2406.12169" target="_blank">[pdf]</a>
 </li>
 
