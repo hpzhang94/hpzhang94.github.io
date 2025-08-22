@@ -69,15 +69,14 @@ title: Publications
   <span class="paper-title">FormosanBench: Benchmarking Low-Resource Austronesian Languages in the Era of Large Language Models</span>
   <br>Kaiying Lin, Hsiyu Chen, <b>Haopeng Zhang</b>
   <br><i>Findings of the 2025 Conference on Empirical Methods in Natural Language Processing</i> <b>(EMNLP 2025)</b>
-  <br><a href="https://arxiv.org/abs/2506.21563" target="_blank">[pdf]</a>
+  <br><a href="https://arxiv.org/abs/2506.21563" target="_blank">[pdf]</a><a href="https://anonymous.4open.science/r/FormosanBench-DB43/README.md" target="_blank">[data, code]</a>
 </li>
 
 <li>
   <span class="paper-title">The Negative Concord Mystery: Insights from a Language Model</span>
   <br>William O’Grady, <b>Haopeng Zhang</b>, Miseon Lee
-  <br><i>MDPI Information</i>
+  <br><i>Information 2025, 16(8), 710</i>
 </li>
-
 
 <li>
   <span class="paper-title">MermaidFlow: Redefining Agentic Workflow Generation via Safety-Constrained Evolutionary Programming</span>
@@ -92,7 +91,6 @@ title: Publications
   <br><i>Journal of Medical Internet Research Artificial Intelligence</i> <b>(JMIR AI)</b>
   <br><a href="https://preprints.jmir.org/preprint/75030" target="_blank">[pdf]</a>
 </li>
-
 
 <li>
 <span class="paper-title">Wi‑Chat: Large Language Model‑powered Wi‑Fi‑based Human Activity Recognition</span>
