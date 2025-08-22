@@ -39,13 +39,6 @@ title: Publications
 </li>
 
 <li>
-<span class="paper-title">FormosanBench: Benchmarking Low-Resource Austronesian Languages in the Era of Large Language Models</span>
-<br>Kaiying Lin, Hsiyu Chen, <b>Haopeng Zhang</b>
-<br>arXiv preprint arXiv:2506.21563
-<br><a href="https://arxiv.org/abs/2506.21563" target="_blank">[pdf]</a>
-</li>
-
-<li>
 <span class="paper-title">Bridging Multimodal and Video Summarization: A Unified Survey</span>
 <br><b>Haopeng Zhang</b>
 <br><i>coming soon</i>
@@ -73,6 +66,13 @@ title: Publications
 <ol>
 
 <li>
+  <span class="paper-title">FormosanBench: Benchmarking Low-Resource Austronesian Languages in the Era of Large Language Models</span>
+  <br>Kaiying Lin, Hsiyu Chen, <b>Haopeng Zhang</b>
+  <br><i>Findings of the 2025 Conference on Empirical Methods in Natural Language Processing</i> <b>(EMNLP 2025)</b>
+  <br><a href="https://arxiv.org/abs/2506.21563" target="_blank">[pdf]</a>
+</li>
+
+<li>
   <span class="paper-title">The Negative Concord Mystery: Insights from a Language Model</span>
   <br>William O’Grady, <b>Haopeng Zhang</b>, Miseon Lee
   <br><i>MDPI Information</i>
@@ -82,14 +82,14 @@ title: Publications
 <li>
   <span class="paper-title">MermaidFlow: Redefining Agentic Workflow Generation via Safety-Constrained Evolutionary Programming</span>
   <br>Chengqi Zheng, Jianda Chen, Yueming Lyu, Wen Zheng Terence Ng, <b>Haopeng Zhang</b>, Yew-Soon Ong, Ivor Tsang, Haiyan Yin
-  <br><i>ICML 2025 Workshop: Multi-Agent Systems in the Era of Foundation Models</i><b>(MAS 2025)</b>
+  <br><i>ICML 2025 Workshop: Multi-Agent Systems in the Era of Foundation Models</i> <b>(MAS 2025)</b>
   <br><a href="https://arxiv.org/abs/2505.22967" target="_blank">[pdf]</a> <a href="https://github.com/chengqiArchy/MermaidFlow" target="_blank">[code]</a>
 </li>
 
 <li>
   <span class="paper-title">Aiding LLMs with Clinical Scoresheets: No Improvement in Neurobehavioral Diagnostic Classification from Text Using Basic Prompting</span>
   <br>Kaiying Lin, Abdur Rasool, Saimourya Surabhi, Cezmi Mutlu, <b>Haopeng Zhang</b>, Dennis Wall Paul, Peter Washington
-  <br><i>Journal of Medical Internet Research Artificial Intelligence</i> <b>JMIR AI</b>
+  <br><i>Journal of Medical Internet Research Artificial Intelligence</i> <b>(JMIR AI)</b>
   <br><a href="https://preprints.jmir.org/preprint/75030" target="_blank">[pdf]</a>
 </li>
 
@@ -105,11 +105,11 @@ title: Publications
 <li>
   <span class="paper-title">Haptic Simulation Workstation for Prostate Brachytherapy Training</span>
   <br>Bardia Konh, Rex Imanaka, Mitchell Kamrava, <b>Haopeng Zhang</b>
-  <br><i>American Brachytherapy Society Annual Conference</i> (<b>ABS 2025</b>)
+  <br><i>American Brachytherapy Society Annual Conference</i> <b>(ABS 2025)</b>
 </li>
 
 <li>
-<span class="paper-title">Boosting Multimodal Reasoning with Implicit Chain-of-Vision Finetuning</span>
+<span class="paper-title">Autonomous Multimodal Reasoning via Implicit Chain-of-Vision</span>
 <br>Yiqiao Huang, Zhaorun Chen, He Qi, <b>Haopeng Zhang</b>, Hanchao Yu, Zhuokai Zhao
 <br><i>Multimodal Algorithmic Reasoning workshop at CVPR 2025</i> <b>(MAR 2025 Spotlight)</b>
 <br><a href="https://openaccess.thecvf.com/content/CVPR2025W/MAR/papers/Huang_Autonomous_Multimodal_Reasoning_via_Implicit_Chain-of-Vision_CVPRW_2025_paper.pdf" target="_blank">[pdf]</a>
@@ -139,7 +139,7 @@ title: Publications
 <li>
 <span class="paper-title">A Systematic Survey of Text Summarization: From Statistical Methods to Large Language Models</span>
 <br><b>Haopeng Zhang</b>, Philip S. Yu, Jiawei Zhang
-<br>ACM Computing Surveys
+<br><i>ACM Computing Surveys 57.11 (2025): 1-41</i>
 <br><a href="https://arxiv.org/abs/2406.11289" target="_blank">[pdf]</a>
 </li>
 
