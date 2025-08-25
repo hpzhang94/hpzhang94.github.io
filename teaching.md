@@ -12,7 +12,9 @@ layout: page
 - **Professor Information**: 
   - Professor: Haopeng Zhang 
   - Email: haopengz@hawaii.edu
-  - Office Hours: Tuesday 2-3 pm, POST 309C
+  - Office Hours: Thursday 2-3 pm, POST 309C
+- **Syllabus**: <a href="https://docs.google.com/document/d/1tc5WXIg7ooctEVm5xEWgPPCzYM65kJ4ZTcxg4SIi43Q/edit?usp=sharing" target="_blank">syllabus</a>
+- **Schedule**: <a href="https://docs.google.com/spreadsheets/d/1bGZ6EHBqcE4WbKWZ6sQEbsxwN2tK2pI89I3oE3epsxo/edit?usp=sharing" target="_blank">schedule</a>
 
 
 <!--   - TA: Christoph Haring 
