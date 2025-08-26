@@ -15,7 +15,7 @@ layout: page
   - Office Hours: Thursday 2-3 pm, POST 309C
 - **Syllabus**: <a href="https://docs.google.com/document/d/1tc5WXIg7ooctEVm5xEWgPPCzYM65kJ4ZTcxg4SIi43Q/edit?usp=sharing" target="_blank">syllabus</a>
 - **Schedule**: <a href="https://docs.google.com/spreadsheets/d/1bGZ6EHBqcE4WbKWZ6sQEbsxwN2tK2pI89I3oE3epsxo/edit?usp=sharing" target="_blank">schedule</a>
-- **Deliverable**: <a href="https://lamaku.hawaii.edu/d2l/home/62417" target="_blank">schedule</a>
+- **Deliverable**: <a href="https://lamaku.hawaii.edu/d2l/home/62417" target="_blank">submit</a>
 
 
 <!-- ### Teaching Assistant
