@@ -15,21 +15,7 @@ layout: page
   - Office Hours: Thursday 2-3 pm, POST 309C
 - **Syllabus**: <a href="https://docs.google.com/document/d/1tc5WXIg7ooctEVm5xEWgPPCzYM65kJ4ZTcxg4SIi43Q/edit?usp=sharing" target="_blank">syllabus</a>
 - **Schedule**: <a href="https://docs.google.com/spreadsheets/d/1bGZ6EHBqcE4WbKWZ6sQEbsxwN2tK2pI89I3oE3epsxo/edit?usp=sharing" target="_blank">schedule</a>
-
-
-<!--   - TA: Christoph Haring 
-  - Email: charing@hawaii.edu
-  - Office Hours: Friday 11-12:30, POST 303C
-- **Prerequisites**
-  - Programming in Python
-  - ICS 235 Machine Learning Methods
-- **Topics**: 
-  - Statistical Machine Learning: Supervised, Unsupervised, regression, Bayesian
-  - Deep Learning: NN, vision, NLP, diffusion, RL
-- **Syllabus**: <a href="https://docs.google.com/document/d/1C6cp5uoKMmVxb7rLkaFB7VUB31MGUUh0V5lbyxmN_tU/edit?usp=sharing" target="_blank">syllabus</a>
-- **Schedule**: <a href="https://docs.google.com/spreadsheets/d/1IFl1YT_RGwHYZGlF5kFqKpIy8dBpD-BHsWU7dUMv6Mw/edit?usp=sharing" target="_blank">schedule</a>
-- **Assignment/Announcement**: <a href="https://laulima.hawaii.edu/portal/site/MAN.83602.202530" target="_blank">Laulima 435</a>, <a href="https://laulima.hawaii.edu/portal/site/MAN.86260.202530" target="_blank">Laulima 635</a> -->
-
+- **Deliverable**: <a href="https://lamaku.hawaii.edu/d2l/home/62417" target="_blank">schedule</a>
 
 
 <!-- ### Teaching Assistant
