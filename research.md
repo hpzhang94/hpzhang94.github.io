@@ -76,6 +76,7 @@ title: Publications
   <span class="paper-title">The Negative Concord Mystery: Insights from a Language Model</span>
   <br>William O’Grady, <b>Haopeng Zhang</b>, Miseon Lee
   <br><i>Information 2025, 16(8), 710</i>
+  <br><a href="https://www.mdpi.com/2078-2489/16/8/710" target="_blank">[pdf]</a>
 </li>
 
 <li>
