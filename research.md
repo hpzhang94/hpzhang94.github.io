@@ -41,7 +41,8 @@ title: Publications
 <li>
 <span class="paper-title">Bridging Multimodal and Video Summarization: A Unified Survey</span>
 <br><b>Haopeng Zhang</b>
-<br><i>coming soon</i>
+<br>TechRxiv preprint
+<br><a href="https://www.techrxiv.org/doi/full/10.36227/techrxiv.175695798.83905803/v1" target="_blank">[pdf]</a>
 </li>
 
 
