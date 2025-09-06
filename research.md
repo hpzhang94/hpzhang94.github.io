@@ -70,7 +70,7 @@ title: Publications
   <span class="paper-title">FormosanBench: Benchmarking Low-Resource Austronesian Languages in the Era of Large Language Models</span>
   <br>Kaiying Lin, Hsiyu Chen, <b>Haopeng Zhang</b>
   <br><i>Findings of the 2025 Conference on Empirical Methods in Natural Language Processing</i> <b>(EMNLP 2025)</b>
-  <br><a href="https://arxiv.org/abs/2506.21563" target="_blank">[pdf]</a><a href="https://anonymous.4open.science/r/FormosanBench-DB43/README.md" target="_blank">[data, code]</a>
+  <br><a href="https://arxiv.org/abs/2506.21563" target="_blank">[pdf]</a><a href="https://anonymous.4open.science/r/FormosanBench-DB43/README.md" target="_blank">[data, code]</a><a href="https://www.hawaii.edu/news/2025/09/05/endangered-languages-ai-tools/" target="_blank">[UH news]</a>
 </li>
 
 <li>

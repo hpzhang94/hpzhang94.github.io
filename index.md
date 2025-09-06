@@ -18,7 +18,7 @@ I am broadly interested in Natural Language Processing, Machine Learning, and Ar
 ## News
 <div style="max-height: 350px; overflow-y: scroll; padding: 15px; border-radius: 2px;">
   <ul>
-    <li>08.2025: One research paper on <a href="https://arxiv.org/abs/2506.21563" target="_blank">[Low Resource Language]</a> has been accepted to the Findings of EMNLP 2025.</li>
+    <li>08.2025: One research paper on <a href="https://arxiv.org/abs/2506.21563" target="_blank">[Low Resource Pacific Language]</a> has been accepted to the Findings of EMNLP 2025 and featured in <a href="https://www.hawaii.edu/news/2025/09/05/endangered-languages-ai-tools/" target="_blank">[UH news]</a></li>
     <li>04.2025: Happy to join the <a href="https://abundant-intelligences.net/pods/" target="_blank">[Abundant Intelligence]</a> project.</li>
     <li>08.2025: Recent collaboration papers on <a href="https://www.mdpi.com/2078-2489/16/8/710" target="_blank">[LLM + Linguistics]</a> and <a href="https://preprints.jmir.org/preprint/75030/accepted" target="_blank">[LLM + Healthcare]</a> have been accepted to Information and JMIR AI journals.</li>
     <li>04.2025: Happy to join the <a href="https://hawaii.edu/epscor/changehi-opportunity-for-research-experience-core-program/" target="_blank">[Change(HI) Opportunity for Research Experience (CORE) program]</a> project.</li>
