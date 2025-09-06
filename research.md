@@ -104,8 +104,8 @@ title: Publications
 
 <li>
   <span class="paper-title">Haptic Simulation Workstation for Prostate Brachytherapy Training</span>
-  <br>Bardia Konh, Rex Imanaka, Mitchell Kamrava, <b>Haopeng Zhang</b>
-  <br><i>American Brachytherapy Society Annual Conference</i> <b>(ABS 2025)</b>
+  <br>Bardia Konh, Rex Imanaka, <b>Haopeng Zhang</b>, Mitchell Kamrava
+  <br><i>Brachytherapy, 24(4), S48</i>
 </li>
 
 <li>
