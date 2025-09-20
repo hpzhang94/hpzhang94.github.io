@@ -39,14 +39,6 @@ title: Publications
 </li>
 
 <li>
-<span class="paper-title">Bridging Multimodal and Video Summarization: A Unified Survey</span>
-<br><b>Haopeng Zhang</b>
-<br>TechRxiv preprint
-<br><a href="https://www.techrxiv.org/doi/full/10.36227/techrxiv.175695798.83905803/v1" target="_blank">[pdf]</a>
-</li>
-
-
-<li>
 <span class="paper-title">A Revisit of Fake News Dataset with Augmented Fact-checking by ChatGPT</span>
 <br>Zizhong Li, <b>Haopeng Zhang</b>, Jiawei Zhang
 <br>arXiv preprint arXiv:2312.11870
@@ -65,6 +57,14 @@ title: Publications
 
 ## Publications
 <ol>
+
+<li>
+<span class="paper-title">Bridging Multimodal and Video Summarization: A Unified Survey</span>
+<br><b>Haopeng Zhang</b>
+<br><i>Proceedings of the 5th New Frontiers in Summarization Workshop</i> <b>(EMNLP NewSumm 2025)</b>  
+<br><a href="https://www.techrxiv.org/doi/full/10.36227/techrxiv.175695798.83905803/v1" target="_blank">[pdf]</a>
+</li>
+
 
 <li>
   <span class="paper-title">FormosanBench: Benchmarking Low-Resource Austronesian Languages in the Era of Large Language Models</span>
