@@ -23,16 +23,15 @@ title: Publications
 
 
 ## Publications
+## 2025
 <ol>
-
 <li>
 <span class="paper-title">Poster: Token-Level Precise Attack on RAG: Searching for the Best Alternatives to Mislead Generation</span>
 <br>Zizhong Li, <b>Haopeng Zhang</b>, Jiawei Zhang
-<br>Proceedings of the 41th Annual Computer Security
-Applications Conference Posters
+<br>Proceedings of the 41st Annual Computer Security
+Applications Conference <b>(ACSAC 2025)</b>Posters
 <br><a href="https://arxiv.org/abs/2508.03110" target="_blank">[pdf]</a>
 </li>
-
 
 <li>
 <span class="paper-title">Bridging Multimodal and Video Summarization: A Unified Survey</span>
@@ -41,12 +40,11 @@ Applications Conference Posters
 <br><a href="https://www.techrxiv.org/doi/full/10.36227/techrxiv.175695798.83905803/v1" target="_blank">[pdf]</a>
 </li>
 
-
 <li>
   <span class="paper-title">FormosanBench: Benchmarking Low-Resource Austronesian Languages in the Era of Large Language Models</span>
   <br>Kaiying Lin, Hsiyu Chen, <b>Haopeng Zhang</b>
   <br><i>Findings of the 2025 Conference on Empirical Methods in Natural Language Processing</i> <b>(EMNLP 2025)</b>
-  <br><a href="https://arxiv.org/abs/2506.21563" target="_blank">[pdf]</a><a href="https://anonymous.4open.science/r/FormosanBench-DB43/README.md" target="_blank">[data, code]</a><a href="https://www.hawaii.edu/news/2025/09/05/endangered-languages-ai-tools/" target="_blank">[UH news]</a>
+  <br><a href="https://arxiv.org/abs/2506.21563" target="_blank">[pdf]</a> <a href="https://anonymous.4open.science/r/FormosanBench-DB43/README.md" target="_blank">[data, code]</a><a href="https://www.hawaii.edu/news/2025/09/05/endangered-languages-ai-tools/" target="_blank">[UH news]</a>
 </li>
 
 <li>
@@ -119,6 +117,12 @@ Applications Conference Posters
 <br><a href="https://arxiv.org/abs/2406.11289" target="_blank">[pdf]</a>
 </li>
 
+</ol>
+
+## 2024
+
+<ol>
+
 <li>
 <span class="paper-title">Building Intelligent and Reliable Summarization Systems</span>
 <br><b>Haopeng Zhang</b>
@@ -140,11 +144,18 @@ Applications Conference Posters
 <br><a href="https://arxiv.org/abs/2309.11063" target="_blank">[pdf]</a> <a href="https://github.com/megagonlabs/xatu" target="_blank">[code]</a>
 </li>
 
+</ol>
+
+## 2023
+
+<ol>
+
 <li>
 <span class="paper-title">SummIt: Iterative Text Summarization via ChatGPT</span>
 <br><b>Haopeng Zhang</b>*, Xiao Liu*, Jiawei Zhang
 <br>Findings of the 2023 Conference on Empirical Methods in Natural Language Processing <b>(EMNLP 2023)</b>
-<br><a href="http://arxiv.org/abs/2305.14835" target="_blank">[pdf]</a> <a href="https://github.com/hpzhang94/summ_it" target="_blank">[code]</a>
+<br><a href="http://arxiv.org/abs/2305.14835" target="_blank">[pdf]</a> 
+<!-- <a href="https://github.com/hpzhang94/summ_it" target="_blank">[code]</a> -->
 </li>
 
 <li>
@@ -175,6 +186,11 @@ Applications Conference Posters
 <br><a href="https://arxiv.org/abs/2305.01735" target="_blank">[pdf]</a> <a href="https://github.com/hpzhang94/DiffuSum" target="_blank">[code]</a>
 </li>
 
+</ol>
+
+## 2022
+<ol>
+
 <li>
 <span class="paper-title">HEGEL: Hypergraph Transformer for Long Document Summarization</span>
 <br><b>Haopeng Zhang</b>, Xiao Liu, Jiawei Zhang
@@ -189,6 +205,10 @@ Applications Conference Posters
 <br><a href="https://aclanthology.org/2022.findings-naacl.40/" target="_blank">[pdf]</a>
 </li>
 
+</ol>
+
+## 2020
+<ol>
 <li>
 <span class="paper-title">Text Graph Transformer for Document Classification</span>
 <br><b>Haopeng Zhang</b>, Jiawei Zhang
