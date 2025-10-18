@@ -29,7 +29,7 @@ title: Publications
 <span class="paper-title">Poster: Token-Level Precise Attack on RAG: Searching for the Best Alternatives to Mislead Generation</span>
 <br>Zizhong Li, <b>Haopeng Zhang</b>, Jiawei Zhang
 <br>Proceedings of the 41st Annual Computer Security
-Applications Conference <b>(ACSAC 2025)</b>Posters
+Applications Conference <b>(ACSAC 2025)</b> Posters
 <br><a href="https://arxiv.org/abs/2508.03110" target="_blank">[pdf]</a>
 </li>
 
