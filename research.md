@@ -21,42 +21,18 @@ title: Publications
 
 \* Equal Contributions
 
-## Preprints
-<ol>
-
-<li>
-<span class="paper-title">StrucSum: Graph-Structured Reasoning for Long Document Extractive Summarization with LLMs</span>
-<br>Haohan Yuan, <b>Haopeng Zhang</b>
-<br>arXiv preprint arXiv:2505.22950
-<br><a href="https://arxiv.org/abs/2505.22950" target="_blank">[pdf]</a> <a href="https://github.com/HaohanYuan01/StrucSum" target="_blank">[code]</a>
-</li>
-
-<li>
-<span class="paper-title">Token-Level Precise Attack on RAG: Searching for the Best Alternatives to Mislead Generation</span>
-<br>Zizhong Li, <b>Haopeng Zhang</b>, Jiawei Zhang
-<br>arXiv preprint arXiv:2508.03110
-<br><a href="https://arxiv.org/abs/2508.03110" target="_blank">[pdf]</a>
-</li>
-
-<li>
-<span class="paper-title">A Revisit of Fake News Dataset with Augmented Fact-checking by ChatGPT</span>
-<br>Zizhong Li, <b>Haopeng Zhang</b>, Jiawei Zhang
-<br>arXiv preprint arXiv:2312.11870
-<br><a href="https://arxiv.org/abs/2312.11870" target="_blank">[pdf]</a>
-</li>
-
-<li>
-<span class="paper-title">Graph-Bert: Only Attention is Needed for Learning Graph Representations</span>
-<br>Jiawei Zhang, <b>Haopeng Zhang</b>, Li Sun, Congying Xia
-<br>arXiv preprint arXiv:2001.05140
-<br><a href="https://arxiv.org/abs/2001.05140" target="_blank">[pdf]</a> <a href="https://github.com/jwzhanggy/Graph-Bert" target="_blank">[code]</a>
-</li>
-
-</ol>
-
 
 ## Publications
 <ol>
+
+<li>
+<span class="paper-title">Poster: Token-Level Precise Attack on RAG: Searching for the Best Alternatives to Mislead Generation</span>
+<br>Zizhong Li, <b>Haopeng Zhang</b>, Jiawei Zhang
+<br>Proceedings of the 41th Annual Computer Security
+Applications Conference Posters
+<br><a href="https://arxiv.org/abs/2508.03110" target="_blank">[pdf]</a>
+</li>
+
 
 <li>
 <span class="paper-title">Bridging Multimodal and Video Summarization: A Unified Survey</span>
@@ -218,6 +194,33 @@ title: Publications
 <br><b>Haopeng Zhang</b>, Jiawei Zhang
 <br>Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing <b>(EMNLP 2020)</b>
 <br><a href="https://aclanthology.org/2020.emnlp-main.668/" target="_blank">[pdf]</a>
+</li>
+
+</ol>
+
+
+## Preprints
+<ol>
+
+<li>
+<span class="paper-title">StrucSum: Graph-Structured Reasoning for Long Document Extractive Summarization with LLMs</span>
+<br>Haohan Yuan, <b>Haopeng Zhang</b>
+<br>arXiv preprint arXiv:2505.22950
+<br><a href="https://arxiv.org/abs/2505.22950" target="_blank">[pdf]</a> <a href="https://github.com/HaohanYuan01/StrucSum" target="_blank">[code]</a>
+</li>
+
+<li>
+<span class="paper-title">A Revisit of Fake News Dataset with Augmented Fact-checking by ChatGPT</span>
+<br>Zizhong Li, <b>Haopeng Zhang</b>, Jiawei Zhang
+<br>arXiv preprint arXiv:2312.11870
+<br><a href="https://arxiv.org/abs/2312.11870" target="_blank">[pdf]</a>
+</li>
+
+<li>
+<span class="paper-title">Graph-Bert: Only Attention is Needed for Learning Graph Representations</span>
+<br>Jiawei Zhang, <b>Haopeng Zhang</b>, Li Sun, Congying Xia
+<br>arXiv preprint arXiv:2001.05140
+<br><a href="https://arxiv.org/abs/2001.05140" target="_blank">[pdf]</a> <a href="https://github.com/jwzhanggy/Graph-Bert" target="_blank">[code]</a>
 </li>
 
 </ol>
