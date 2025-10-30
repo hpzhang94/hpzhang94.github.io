@@ -17,6 +17,9 @@ I am broadly interested in Natural Language Processing, Machine Learning, and Ar
 
 ## News
 <style>
+  h2 {
+    margin-bottom: 10px; /* Or 10px, 0.5rem, etc. Adjust as you like. */
+  }
   .news-tag {
     display: inline-block;
     padding: 2px 8px;
@@ -39,7 +42,7 @@ I am broadly interested in Natural Language Processing, Machine Learning, and Ar
   }
 </style>
 
-<div style="max-height: 500px; overflow-y: scroll; padding: 15px; border-radius: 2px;">
+<div style="max-height: 500px; overflow-y: scroll; padding: 5px; border-radius: 2px;">
   <ul class="news-list">
     <li><span class="news-tag tag-funding">Funding</span>10.2025: Happy to participate in and receive support from the <a href="https://www.ama-assn.org/education/changemeded-initiative/precision-education" target="_blank">American Medical Association(AMA) Precision Education Grant</a>.</li>
     <li><span class="news-tag tag-award">Award/Honor</span>10.2025: Our submission "Hawaiian Language Physical Reasoning Dataset" received the Best Shared Task Contribution Awards at the EMNLP 2025 Multilingual Representation Learning (MRL) Workshop.</li>
