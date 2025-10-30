@@ -52,7 +52,7 @@ I am broadly interested in Natural Language Processing, Machine Learning, and Ar
   /* This controls the spacing *between list items* */
   .news-list li {
     margin-top: 0;
-    margin-bottom: 10px; /* Controls the vertical gap between items */
+    margin-bottom: 5px; /* Controls the vertical gap between items */
   }
 </style>
 
