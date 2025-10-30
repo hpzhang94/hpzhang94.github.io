@@ -26,7 +26,14 @@ title: Publications
 ## 2025
 <ol>
 <li>
-<span class="paper-title">Poster: Token-Level Precise Attack on RAG: Searching for the Best Alternatives to Mislead Generation</span>
+<span class="paper-title">Hawaiian Language Physical Reasoning
+Dataset</span>
+<br>Cade J. Kanoniakapueo Kane, A. Kuuipolani Kanahele Wong, Pua Niau-Puhipau, R. Kekeha Solis, Bruce Torres Fischer, Winston Wu, <b>Haopeng Zhang</b>
+<br>Proceedings of the 5th Multilingual Representation Learning Workshop <b>(EMNLP MRL 2025)</b>
+</li>
+
+<li>
+<span class="paper-title">Token-Level Precise Attack on RAG: Searching for the Best Alternatives to Mislead Generation</span>
 <br>Zizhong Li, <b>Haopeng Zhang</b>, Jiawei Zhang
 <br>Proceedings of the 41st Annual Computer Security
 Applications Conference <b>(ACSAC 2025)</b> Posters

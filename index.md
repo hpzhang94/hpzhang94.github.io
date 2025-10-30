@@ -18,7 +18,8 @@ I am broadly interested in Natural Language Processing, Machine Learning, and Ar
 ## News
 <div style="max-height: 350px; overflow-y: scroll; padding: 15px; border-radius: 2px;">
   <ul>
-    <li>October 2025: Joined the <a href="https://manoa.hawaii.edu/linguistics/" target="_blank">Department of Linguistics</a> as a cooperating faculty member.</li>
+    <li>10.2025: Our submission "Hawaiian Language Physical Reasoning Dataset" received one of the Best Shared Task Contribution Awards at the EMNLP 2025 Multilingual Representation Learning (MRL) Workshop.</li>
+    <li>10.2025: Joined the <a href="https://manoa.hawaii.edu/linguistics/" target="_blank">Department of Linguistics</a> as a cooperating faculty member.</li>
     <li>08.2025: One research paper on <a href="https://arxiv.org/abs/2506.21563" target="_blank">[Low Resource Pacific Language]</a> has been accepted to the Findings of EMNLP 2025 and featured in <a href="https://www.hawaii.edu/news/2025/09/05/endangered-languages-ai-tools/" target="_blank">[UH news]</a></li>
     <li>08.2025: Happy to join the <a href="https://abundant-intelligences.net/pods/" target="_blank">[Abundant Intelligence]</a> project.</li>
     <li>08.2025: Recent collaboration papers on <a href="https://www.mdpi.com/2078-2489/16/8/710" target="_blank">[LLM + Linguistics]</a> and <a href="https://preprints.jmir.org/preprint/75030/accepted" target="_blank">[LLM + Healtcare]</a> have been accepted to Information and JMIR AI journals.</li>
