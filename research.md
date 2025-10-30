@@ -230,6 +230,13 @@ Applications Conference <b>(ACSAC 2025)</b> Posters
 <ol>
 
 <li>
+<span class="paper-title">Global PIQA: Evaluating Physical Commonsense Reasoning Across 100+ Languages and Cultures</span>
+<br>MRL 25 authors
+<br>arXiv preprint arXiv:2510.24081
+<br><a href="https://arxiv.org/abs/2510.24081" target="_blank">[pdf]</a> <a href="https://mrlbenchmarks.github.io/" target="_blank">[code]</a><a href="https://huggingface.co/datasets/mrlbenchmarks/global-piqa-nonparallel" target="_blank">[data]</a>
+</li>
+
+<li>
 <span class="paper-title">StrucSum: Graph-Structured Reasoning for Long Document Extractive Summarization with LLMs</span>
 <br>Haohan Yuan, <b>Haopeng Zhang</b>
 <br>arXiv preprint arXiv:2505.22950
