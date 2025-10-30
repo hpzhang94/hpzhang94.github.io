@@ -18,8 +18,18 @@ I am broadly interested in Natural Language Processing, Machine Learning, and Ar
 ## News
 <style>
   h2 {
-    margin-bottom: 10px; /* Or 10px, 0.5rem, etc. Adjust as you like. */
+    margin-bottom: 10px; /* Controls gap after "News" */
   }
+
+  /* --- ADD THIS NEW RULE --- */
+  /* This controls the spacing for the *entire list* */
+  ul.news-list {
+    margin-top: 0;    /* Removes extra gap above the first item */
+    margin-bottom: 0; /* Removes extra gap below the last item */
+    padding-left: 25px; /* Controls the left indentation (adjust 25px as needed) */
+  }
+  /* ------------------------- */
+
   .news-tag {
     display: inline-block;
     padding: 2px 8px;
@@ -37,8 +47,12 @@ I am broadly interested in Natural Language Processing, Machine Learning, and Ar
   .tag-service{ background-color: #fd7e14; }
   .tag-career { background-color: #dc3545; }
   .tag-media  { background-color: #6c757d; }
+
+  /* --- MODIFY THIS EXISTING RULE --- */
+  /* This controls the spacing *between list items* */
   .news-list li {
-    margin-bottom: 2px; /* Controls the gap. Use 5px for a tighter list. */
+    margin-top: 0;
+    margin-bottom: 10px; /* Controls the vertical gap between items */
   }
 </style>
 
