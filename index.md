@@ -34,13 +34,16 @@ I am broadly interested in Natural Language Processing, Machine Learning, and Ar
   .tag-service{ background-color: #fd7e14; }
   .tag-career { background-color: #dc3545; }
   .tag-media  { background-color: #6c757d; }
+  .news-list li {
+    margin-bottom: 5px; /* Controls the gap. Use 5px for a tighter list. */
+  }
 </style>
 
 <div style="max-height: 350px; overflow-y: scroll; padding: 15px; border-radius: 2px;">
-  <ul>
-    <li><span class="news-tag tag-funding">Funding</span>October 2025: Happy to share that I will participate in and receive support from the <a href="https.gateway.on24.com/wcc/experience/amamedicaleducation/4628712/4764208/precision-education-grant-program" target="_blank">American Medical Association Precision Education Grant Program</a>.</li>
-    <li><span class="news-tag tag-award">Award/Honor</span>10.2025: Our submission "Hawaiian Language Physical Reasoning Dataset" received one of the Best Shared Task Contribution Awards at the EMNLP 2025 Multilingual Representation Learning (MRL) Workshop.</li>
-    <li><span class="news-tag tag-affil">Affiliation</span>10.2025: Joined the <a href="https://manoa.hawaii.edu/linguistics/" target="_blank">Department of Linguistics</a> as a cooperating faculty member.</li>
+  <ul class="news-list">
+    <li><span class="news-tag tag-funding">Funding</span>10.2025: Happy to participate in and receive support from the <a href="https.gateway.on24.com/wcc/experience/amamedicaleducation/4628712/4764208/precision-education-grant-program" target="_blank">American Medical Association(AMA) Precision Education Grant</a>.</li>
+    <li><span class="news-tag tag-award">Award/Honor</span>10.2025: Our submission "Hawaiian Language Physical Reasoning Dataset" received the Best Shared Task Contribution Awards at the EMNLP 2025 Multilingual Representation Learning (MRL) Workshop.</li>
+    <li><span class="news-tag tag-affil">Affiliation</span>10.2025: Happy to join the <a href="https://manoa.hawaii.edu/linguistics/" target="_blank">Department of Linguistics</a> as a cooperating faculty member.</li>
     <li><span class="news-tag tag-pub">Publication</span>08.2025: One research paper on <a href="https://arxiv.org/abs/2506.21563" target="_blank">[Low Resource Pacific Language]</a> has been accepted to the Findings of EMNLP 2025 and featured in <a href="https://www.hawaii.edu/news/2025/09/05/endangered-languages-ai-tools/" target="_blank">[UH news]</a></li>
     <li><span class="news-tag tag-affil">Affiliation</span>08.2025: Happy to join the <a href="https://abundant-intelligences.net/pods/" target="_blank">[Abundant Intelligence]</a> project.</li>
     <li><span class="news-tag tag-pub">Publication</span>08.2025: Recent collaboration papers on <a href="https://www.mdpi.com/2078-2489/16/8/710" target="_blank">[LLM + Linguistics]</a> and <a href="https://preprints.jmir.org/preprint/75030/accepted" target="_blank">[LLM + Healtcare]</a> have been accepted to Information and JMIR AI journals.</li>
@@ -78,7 +81,6 @@ s    <li><span class="news-tag tag-service">Service</span>11.2024: Honored to 
     <li><span class="news-tag tag-career">Career</span>04.2023: start my research internship at Megagon Lab.</li>
     <li><span class="news-tag tag-award">Award/Honor</span>03.2023: receive UC Davis GGCS Research Fellowship.</li>
     <li><span class="news-tag tag-service">Service</span>03.2023: serve as reviewer for ACL 23, IEEE TASLP, IEEE Transactions on Big Data.</li>
-li>
     <li><span class="news-tag tag-career">Career</span>02.2023: passed my QE exam.</li>
   </ul>
 </div>
