@@ -35,13 +35,13 @@ I am broadly interested in Natural Language Processing, Machine Learning, and Ar
   .tag-career { background-color: #dc3545; }
   .tag-media  { background-color: #6c757d; }
   .news-list li {
-    margin-bottom: 5px; /* Controls the gap. Use 5px for a tighter list. */
+    margin-bottom: 2px; /* Controls the gap. Use 5px for a tighter list. */
   }
 </style>
 
-<div style="max-height: 350px; overflow-y: scroll; padding: 15px; border-radius: 2px;">
+<div style="max-height: 500px; overflow-y: scroll; padding: 15px; border-radius: 2px;">
   <ul class="news-list">
-    <li><span class="news-tag tag-funding">Funding</span>10.2025: Happy to participate in and receive support from the <a href="https.gateway.on24.com/wcc/experience/amamedicaleducation/4628712/4764208/precision-education-grant-program" target="_blank">American Medical Association(AMA) Precision Education Grant</a>.</li>
+    <li><span class="news-tag tag-funding">Funding</span>10.2025: Happy to participate in and receive support from the <a href="https://www.ama-assn.org/education/changemeded-initiative/precision-education" target="_blank">American Medical Association(AMA) Precision Education Grant</a>.</li>
     <li><span class="news-tag tag-award">Award/Honor</span>10.2025: Our submission "Hawaiian Language Physical Reasoning Dataset" received the Best Shared Task Contribution Awards at the EMNLP 2025 Multilingual Representation Learning (MRL) Workshop.</li>
     <li><span class="news-tag tag-affil">Affiliation</span>10.2025: Happy to join the <a href="https://manoa.hawaii.edu/linguistics/" target="_blank">Department of Linguistics</a> as a cooperating faculty member.</li>
     <li><span class="news-tag tag-pub">Publication</span>08.2025: One research paper on <a href="https://arxiv.org/abs/2506.21563" target="_blank">[Low Resource Pacific Language]</a> has been accepted to the Findings of EMNLP 2025 and featured in <a href="https://www.hawaii.edu/news/2025/09/05/endangered-languages-ai-tools/" target="_blank">[UH news]</a></li>
