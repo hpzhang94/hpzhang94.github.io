@@ -23,6 +23,55 @@ title: Publications
 
 
 ## Publications
+
+## Preprints
+<ol>
+
+<li>
+<span class="paper-title">Position: On the Risks of Generative Engine
+Optimization in the Era of LLMs</span>
+<br>Yizhu Wen, Nan Zhang, Haohan Yuan, Xun Chen, <b>Haopeng Zhang</b>, Hanqing Guo
+<!-- <br>arXiv preprint arXiv:2512.03503
+<br><a href="https://arxiv.org/abs/2512.03503" target="_blank">[pdf]</a> -->
+</li>
+
+<li>
+<span class="paper-title">Understanding LLM Reasoning for Abstractive Summarization</span>
+<br>Haohan Yuan, Siu Cheung Hui, <b>Haopeng Zhang</b>
+<br>arXiv preprint arXiv:2512.03503
+<br><a href="https://arxiv.org/abs/2512.03503" target="_blank">[pdf]</a>
+</li>
+
+<li>
+<span class="paper-title">Global PIQA: Evaluating Physical Commonsense Reasoning Across 100+ Languages and Cultures</span>
+<br>MRL 25 authors
+<br>arXiv preprint arXiv:2510.24081
+<br><a href="https://arxiv.org/abs/2510.24081" target="_blank">[pdf]</a> <a href="https://mrlbenchmarks.github.io/" target="_blank">[code]</a><a href="https://huggingface.co/datasets/mrlbenchmarks/global-piqa-nonparallel" target="_blank">[data]</a>
+</li>
+
+<li>
+<span class="paper-title">StrucSum: Graph-Structured Reasoning for Long Document Extractive Summarization with LLMs</span>
+<br>Haohan Yuan, <b>Haopeng Zhang</b>
+<br>arXiv preprint arXiv:2505.22950
+<br><a href="https://arxiv.org/abs/2505.22950" target="_blank">[pdf]</a> <a href="https://github.com/HaohanYuan01/StrucSum" target="_blank">[code]</a>
+</li>
+
+<li>
+<span class="paper-title">A Revisit of Fake News Dataset with Augmented Fact-checking by ChatGPT</span>
+<br>Zizhong Li, <b>Haopeng Zhang</b>, Jiawei Zhang
+<br>arXiv preprint arXiv:2312.11870
+<br><a href="https://arxiv.org/abs/2312.11870" target="_blank">[pdf]</a>
+</li>
+
+<li>
+<span class="paper-title">Graph-Bert: Only Attention is Needed for Learning Graph Representations</span>
+<br>Jiawei Zhang, <b>Haopeng Zhang</b>, Li Sun, Congying Xia
+<br>arXiv preprint arXiv:2001.05140
+<br><a href="https://arxiv.org/abs/2001.05140" target="_blank">[pdf]</a> <a href="https://github.com/jwzhanggy/Graph-Bert" target="_blank">[code]</a>
+</li>
+
+</ol>
+
 ## 2025
 <ol>
 <li>
@@ -44,7 +93,7 @@ Applications Conference <b>(ACSAC 2025)</b> Posters
 <span class="paper-title">Bridging Multimodal and Video Summarization: A Unified Survey</span>
 <br><b>Haopeng Zhang</b>
 <br><i>Proceedings of the 5th New Frontiers in Summarization Workshop</i> <b>(EMNLP NewSumm 2025)</b>  
-<br><a href="https://www.techrxiv.org/doi/full/10.36227/techrxiv.175695798.83905803/v1" target="_blank">[pdf]</a>
+<br><a href="https://aclanthology.org/2025.newsum-main.11/" target="_blank">[pdf]</a>
 </li>
 
 <li>
@@ -72,7 +121,7 @@ Applications Conference <b>(ACSAC 2025)</b> Posters
   <span class="paper-title">Aiding LLMs with Clinical Scoresheets: No Improvement in Neurobehavioral Diagnostic Classification from Text Using Basic Prompting</span>
   <br>Kaiying Lin, Abdur Rasool, Saimourya Surabhi, Cezmi Mutlu, <b>Haopeng Zhang</b>, Dennis Wall Paul, Peter Washington
   <br><i>Journal of Medical Internet Research Artificial Intelligence</i> <b>(JMIR AI)</b>
-  <br><a href="https://preprints.jmir.org/preprint/75030" target="_blank">[pdf]</a>
+  <br><a href="https://ai.jmir.org/2025/1/e75030" target="_blank">[pdf]</a>
 </li>
 
 <li>
@@ -159,7 +208,7 @@ Applications Conference <b>(ACSAC 2025)</b> Posters
 
 <li>
 <span class="paper-title">SummIt: Iterative Text Summarization via ChatGPT</span>
-<br><b>Haopeng Zhang</b>*, Xiao Liu*, Jiawei Zhang
+<br><b>Haopeng Zhang</b>, Xiao Liu, Jiawei Zhang
 <br>Findings of the 2023 Conference on Empirical Methods in Natural Language Processing <b>(EMNLP 2023)</b>
 <br><a href="http://arxiv.org/abs/2305.14835" target="_blank">[pdf]</a> 
 <!-- <a href="https://github.com/hpzhang94/summ_it" target="_blank">[code]</a> -->
@@ -188,7 +237,7 @@ Applications Conference <b>(ACSAC 2025)</b> Posters
 
 <li>
 <span class="paper-title">DiffuSum: Generation-enhanced Extractive Summarization with Diffusion</span>
-<br><b>Haopeng Zhang</b>, Xiao Liu, Jiawei Zhang
+<br><b>Haopeng Zhang</b>*, Xiao Liu*, Jiawei Zhang
 <br>Findings of the Association for Computational Linguistics: ACL 2023 <b>(ACL 2023)</b>
 <br><a href="https://arxiv.org/abs/2305.01735" target="_blank">[pdf]</a> <a href="https://github.com/hpzhang94/DiffuSum" target="_blank">[code]</a>
 </li>
@@ -221,40 +270,6 @@ Applications Conference <b>(ACSAC 2025)</b> Posters
 <br><b>Haopeng Zhang</b>, Jiawei Zhang
 <br>Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing <b>(EMNLP 2020)</b>
 <br><a href="https://aclanthology.org/2020.emnlp-main.668/" target="_blank">[pdf]</a>
-</li>
-
-</ol>
-
-
-## Preprints
-<ol>
-
-<li>
-<span class="paper-title">Global PIQA: Evaluating Physical Commonsense Reasoning Across 100+ Languages and Cultures</span>
-<br>MRL 25 authors
-<br>arXiv preprint arXiv:2510.24081
-<br><a href="https://arxiv.org/abs/2510.24081" target="_blank">[pdf]</a> <a href="https://mrlbenchmarks.github.io/" target="_blank">[code]</a><a href="https://huggingface.co/datasets/mrlbenchmarks/global-piqa-nonparallel" target="_blank">[data]</a>
-</li>
-
-<li>
-<span class="paper-title">StrucSum: Graph-Structured Reasoning for Long Document Extractive Summarization with LLMs</span>
-<br>Haohan Yuan, <b>Haopeng Zhang</b>
-<br>arXiv preprint arXiv:2505.22950
-<br><a href="https://arxiv.org/abs/2505.22950" target="_blank">[pdf]</a> <a href="https://github.com/HaohanYuan01/StrucSum" target="_blank">[code]</a>
-</li>
-
-<li>
-<span class="paper-title">A Revisit of Fake News Dataset with Augmented Fact-checking by ChatGPT</span>
-<br>Zizhong Li, <b>Haopeng Zhang</b>, Jiawei Zhang
-<br>arXiv preprint arXiv:2312.11870
-<br><a href="https://arxiv.org/abs/2312.11870" target="_blank">[pdf]</a>
-</li>
-
-<li>
-<span class="paper-title">Graph-Bert: Only Attention is Needed for Learning Graph Representations</span>
-<br>Jiawei Zhang, <b>Haopeng Zhang</b>, Li Sun, Congying Xia
-<br>arXiv preprint arXiv:2001.05140
-<br><a href="https://arxiv.org/abs/2001.05140" target="_blank">[pdf]</a> <a href="https://github.com/jwzhanggy/Graph-Bert" target="_blank">[code]</a>
 </li>
 
 </ol>

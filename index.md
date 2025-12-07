@@ -58,6 +58,7 @@ I am broadly interested in Natural Language Processing and Artificial Intelligen
 
 <div style="max-height: 600px; overflow-y: scroll; padding: 1px; border-radius: 2px;">
   <ul class="news-list">
+    <li><span class="news-tag tag-pub">Publication</span>12.2025: Recent papers now available on arXiv: <a href="https://arxiv.org/abs/2512.03503" target="_blank">[Reasoning for Summarization]</a>, <a href="https://arxiv.org/abs/2512.03503" target="_blank">[Generative Engine Optimization]</a>, <a href="https://arxiv.org/abs/2510.24081" target="_blank">[Multilingual]</a>, and <a href="https://arxiv.org/abs/2512.03503" target="_blank">[Multimodal Privacy]</a>.</li>
     <li><span class="news-tag tag-funding">Funding</span>10.2025: Happy to receive support from the <a href="https://www.ama-assn.org/education/changemeded-initiative/precision-education" target="_blank">American Medical Association(AMA) Precision Education Grant</a>.</li>
     <li><span class="news-tag tag-award">Award</span>10.2025: Our submission "Hawaiian Language Physical Reasoning Dataset" received the Best Shared Task Contribution Awards at the EMNLP 2025 Multilingual Representation Learning (MRL) Workshop.</li>
     <li><span class="news-tag tag-affil">Affiliation</span>10.2025: Happy to join the <a href="https://manoa.hawaii.edu/linguistics/" target="_blank">Department of Linguistics</a> as a cooperating faculty member.</li>
