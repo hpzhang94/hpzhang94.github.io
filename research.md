@@ -67,6 +67,8 @@ Optimization in the Era of LLMs</span>
 </ol>
 
 ## 2026
+
+<ol>
 <li>
 <span class="paper-title">StrucSum: Graph-Structured Reasoning for Long Document Extractive Summarization with LLMs</span>
 <br>Haohan Yuan, <b>Haopeng Zhang</b>
@@ -82,6 +84,8 @@ of the Association for Computational Linguistics (<b>(EACL 2026)</b>
 of the Association for Computational Linguistics (<b>(EACL 2026)</b>
 <br><a href="https://arxiv.org/abs/2508.03110" target="_blank">[pdf]</a>
 </li>
+</ol>
+
 
 ## 2025
 <ol>
