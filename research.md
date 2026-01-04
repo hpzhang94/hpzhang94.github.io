@@ -72,7 +72,7 @@ Optimization in the Era of LLMs</span>
 <li>
 <span class="paper-title">StrucSum: Graph-Structured Reasoning for Long Document Extractive Summarization with LLMs</span>
 <br>Haohan Yuan, <b>Haopeng Zhang</b>
-<br>Findings of the 19th Conference of the European Chapter
+<br>Findings of the 2026 Conference of the European Chapter
 of the Association for Computational Linguistics (<b>(EACL 2026)</b>
 <br><a href="https://arxiv.org/abs/2505.22950" target="_blank">[pdf]</a> <a href="https://github.com/HaohanYuan01/StrucSum" target="_blank">[code]</a>
 </li>
@@ -80,7 +80,7 @@ of the Association for Computational Linguistics (<b>(EACL 2026)</b>
 <li>
 <span class="paper-title">Token-Level Precise Attack on RAG: Searching for the Best Alternatives to Mislead Generation</span>
 <br>Zizhong Li, <b>Haopeng Zhang</b>, Jiawei Zhang
-<br>Findings of the 19th Conference of the European Chapter
+<br>Findings of the 2026 Conference of the European Chapter
 of the Association for Computational Linguistics (<b>(EACL 2026)</b>
 <br><a href="https://arxiv.org/abs/2508.03110" target="_blank">[pdf]</a>
 </li>
