@@ -31,13 +31,13 @@ title: Publications
 <span class="paper-title">Position: On the Risks of Generative Engine
 Optimization in the Era of LLMs</span>
 <br>Yizhu Wen, Nan Zhang, Haohan Yuan, Xun Chen, <b>Haopeng Zhang</b>, Hanqing Guo
-<!-- <br>arXiv preprint arXiv:2512.03503
-<br><a href="https://arxiv.org/abs/2512.03503" target="_blank">[pdf]</a> -->
+<br>arXiv preprint arXiv:2512.03503
+<br><a href="https://www.techrxiv.org/users/1010717/articles/1370817-position-on-the-risks-of-generative-engine-optimization-in-the-era-of-llms" target="_blank">[pdf]</a>
 </li>
 
 <li>
 <span class="paper-title">Understanding LLM Reasoning for Abstractive Summarization</span>
-<br>Haohan Yuan, Siu Cheung Hui, <b>Haopeng Zhang</b>
+<br>Haohan Yuan, <b>Haopeng Zhang</b>
 <br>arXiv preprint arXiv:2512.03503
 <br><a href="https://arxiv.org/abs/2512.03503" target="_blank">[pdf]</a>
 </li>
@@ -49,12 +49,6 @@ Optimization in the Era of LLMs</span>
 <br><a href="https://arxiv.org/abs/2510.24081" target="_blank">[pdf]</a> <a href="https://mrlbenchmarks.github.io/" target="_blank">[code]</a><a href="https://huggingface.co/datasets/mrlbenchmarks/global-piqa-nonparallel" target="_blank">[data]</a>
 </li>
 
-<li>
-<span class="paper-title">StrucSum: Graph-Structured Reasoning for Long Document Extractive Summarization with LLMs</span>
-<br>Haohan Yuan, <b>Haopeng Zhang</b>
-<br>arXiv preprint arXiv:2505.22950
-<br><a href="https://arxiv.org/abs/2505.22950" target="_blank">[pdf]</a> <a href="https://github.com/HaohanYuan01/StrucSum" target="_blank">[code]</a>
-</li>
 
 <li>
 <span class="paper-title">A Revisit of Fake News Dataset with Augmented Fact-checking by ChatGPT</span>
@@ -71,6 +65,23 @@ Optimization in the Era of LLMs</span>
 </li>
 
 </ol>
+
+## 2026
+<li>
+<span class="paper-title">StrucSum: Graph-Structured Reasoning for Long Document Extractive Summarization with LLMs</span>
+<br>Haohan Yuan, <b>Haopeng Zhang</b>
+<br>Findings of the 19th Conference of the European Chapter
+of the Association for Computational Linguistics (<b>(EACL 2026)</b>
+<br><a href="https://arxiv.org/abs/2505.22950" target="_blank">[pdf]</a> <a href="https://github.com/HaohanYuan01/StrucSum" target="_blank">[code]</a>
+</li>
+
+<li>
+<span class="paper-title">Token-Level Precise Attack on RAG: Searching for the Best Alternatives to Mislead Generation</span>
+<br>Zizhong Li, <b>Haopeng Zhang</b>, Jiawei Zhang
+<br>Findings of the 19th Conference of the European Chapter
+of the Association for Computational Linguistics (<b>(EACL 2026)</b>
+<br><a href="https://arxiv.org/abs/2508.03110" target="_blank">[pdf]</a>
+</li>
 
 ## 2025
 <ol>
