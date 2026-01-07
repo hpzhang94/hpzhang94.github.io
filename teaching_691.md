@@ -5,18 +5,17 @@ layout: page
 
 #### `ICS 661 Advanced AI (Fall 2024)`
 #### `ICS 435/635 Machine Learning (Spring 2025)`
-#### `ICS 691 Advanced NLP and LLM (Fall 2025)`
-### `ICS 435 Machine Learning Fundamentals(Spring 2026)`
+### `ICS 691 Advanced NLP and LLM (Fall 2025)`
 
-- **Time**: Monday and Wednesday 9:00 - 10:15 am
-- **Location**: POST 325
+- **Time**: Tuesday and Thursday 3:00 - 4:15 pm
+- **Location**:   SAKAM B308
 - **Professor Information**: 
   - Professor: Haopeng Zhang 
   - Email: haopengz@hawaii.edu
-  - Office Hours: Wednesday 10:15 - 10:45 am, POST 309C
-<!-- - **Syllabus**: <a href="https://docs.google.com/document/d/1tc5WXIg7ooctEVm5xEWgPPCzYM65kJ4ZTcxg4SIi43Q/edit?usp=sharing" target="_blank">syllabus</a>
-- **Schedule**: <a href="https://docs.google.com/spreadsheets/d/1bGZ6EHBqcE4WbKWZ6sQEbsxwN2tK2pI89I3oE3epsxo/edit?usp=sharing" target="_blank">schedule</a> -->
-- **Deliverable**: <a href="https://lamaku.hawaii.edu/d2l/home/110772" target="_blank">submit</a>
+  - Office Hours: Thursday 2-3 pm, POST 309C
+- **Syllabus**: <a href="https://docs.google.com/document/d/1tc5WXIg7ooctEVm5xEWgPPCzYM65kJ4ZTcxg4SIi43Q/edit?usp=sharing" target="_blank">syllabus</a>
+- **Schedule**: <a href="https://docs.google.com/spreadsheets/d/1bGZ6EHBqcE4WbKWZ6sQEbsxwN2tK2pI89I3oE3epsxo/edit?usp=sharing" target="_blank">schedule</a>
+- **Deliverable**: <a href="https://lamaku.hawaii.edu/d2l/home/62417" target="_blank">submit</a>
 
 
 <!-- ### Teaching Assistant

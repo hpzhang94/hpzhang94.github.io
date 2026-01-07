@@ -28,6 +28,20 @@ title: Publications
 <ol>
 
 <li>
+<span class="paper-title">MMViR: A Multi-Modal and Multi-Granularity Representation for Long-range Video Understanding</span>
+<br>Zizhong Li, <b>Haopeng Zhang</b>, Jiawei Zhang
+<br>arXiv preprint
+<!-- <br><a href="https://arxiv.org/abs/2312.11870" target="_blank">[pdf]</a> -->
+</li>
+
+<li>
+<span class="paper-title">MPCI-Bench: A Benchmark for Multimodal Pairwise Contextual Integrity Evaluation of Language Model Agents</span>
+<br>Shouju Wang, <b>Haopeng Zhang</b>
+<br>arXiv preprint 
+<!-- <br><a href="https://arxiv.org/abs/2512.03503" target="_blank">[pdf]</a> -->
+</li>
+
+<li>
 <span class="paper-title">Position: On the Risks of Generative Engine
 Optimization in the Era of LLMs</span>
 <br>Yizhu Wen, Nan Zhang, Haohan Yuan, Xun Chen, <b>Haopeng Zhang</b>, Hanqing Guo
@@ -73,7 +87,7 @@ Optimization in the Era of LLMs</span>
 <span class="paper-title">StrucSum: Graph-Structured Reasoning for Long Document Extractive Summarization with LLMs</span>
 <br>Haohan Yuan, <b>Haopeng Zhang</b>
 <br>Findings of the 2026 Conference of the European Chapter
-of the Association for Computational Linguistics (<b>(EACL 2026)</b>
+of the Association for Computational Linguistics <b>(EACL 2026)</b>
 <br><a href="https://arxiv.org/abs/2505.22950" target="_blank">[pdf]</a> <a href="https://github.com/HaohanYuan01/StrucSum" target="_blank">[code]</a>
 </li>
 
@@ -81,7 +95,7 @@ of the Association for Computational Linguistics (<b>(EACL 2026)</b>
 <span class="paper-title">Token-Level Precise Attack on RAG: Searching for the Best Alternatives to Mislead Generation</span>
 <br>Zizhong Li, <b>Haopeng Zhang</b>, Jiawei Zhang
 <br>Findings of the 2026 Conference of the European Chapter
-of the Association for Computational Linguistics (<b>(EACL 2026)</b>
+of the Association for Computational Linguistics <b>(EACL 2026)</b>
 <br><a href="https://arxiv.org/abs/2508.03110" target="_blank">[pdf]</a>
 </li>
 </ol>
