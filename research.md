@@ -31,14 +31,14 @@ title: Publications
 <span class="paper-title">MMViR: A Multi-Modal and Multi-Granularity Representation for Long-range Video Understanding</span>
 <br>Zizhong Li, <b>Haopeng Zhang</b>, Jiawei Zhang
 <br>arXiv preprint
-<!-- <br><a href="https://arxiv.org/abs/2312.11870" target="_blank">[pdf]</a> -->
+<br><a href="https://arxiv.org/abs/2601.05495" target="_blank">[pdf]</a>
 </li>
 
 <li>
 <span class="paper-title">MPCI-Bench: A Benchmark for Multimodal Pairwise Contextual Integrity Evaluation of Language Model Agents</span>
 <br>Shouju Wang, <b>Haopeng Zhang</b>
 <br>arXiv preprint 
-<!-- <br><a href="https://arxiv.org/abs/2512.03503" target="_blank">[pdf]</a> -->
+<br><a href="https://arxiv.org/abs/2601.08235" target="_blank">[pdf]</a> <a href="https://github.com/hpzhang94/MPCI-Bench" target="_blank">[code]</a>
 </li>
 
 <li>
