@@ -50,13 +50,6 @@ Optimization in the Era of LLMs</span>
 </li>
 
 <li>
-<span class="paper-title">Understanding LLM Reasoning for Abstractive Summarization</span>
-<br>Haohan Yuan, <b>Haopeng Zhang</b>
-<br>arXiv preprint arXiv:2512.03503
-<br><a href="https://arxiv.org/abs/2512.03503" target="_blank">[pdf]</a>
-</li>
-
-<li>
 <span class="paper-title">Global PIQA: Evaluating Physical Commonsense Reasoning Across 100+ Languages and Cultures</span>
 <br>MRL 25 authors
 <br>arXiv preprint arXiv:2510.24081
@@ -83,6 +76,14 @@ Optimization in the Era of LLMs</span>
 ## 2026
 
 <ol>
+
+<li>
+<span class="paper-title">Understanding LLM Reasoning for Abstractive Summarization</span>
+<br>Haohan Yuan, <b>Haopeng Zhang</b>
+<br>Findings of the 2026 Conference of the Association for Computational Linguistics <b>(ACL 2026)</b>
+<br><a href="https://arxiv.org/abs/2512.03503" target="_blank">[pdf]</a>
+</li>
+
 <li>
 <span class="paper-title">StrucSum: Graph-Structured Reasoning for Long Document Extractive Summarization with LLMs</span>
 <br>Haohan Yuan, <b>Haopeng Zhang</b>
