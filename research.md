@@ -27,6 +27,13 @@ title: Publications
 ## Preprints
 <ol>
 
+
+<li>
+<span class="paper-title">Do AI
+understand imaging? A Systematic Benchmark of VLMs for Computational Imaging Tasks</span>
+<br>Ethan Chung, Chuanjie Zheng, Jasper Tan, Jingxi Li, <b>Haopeng Zhang</b>, Huaijin Chen
+</li>
+
 <li>
 <span class="paper-title">MMViR: A Multi-Modal and Multi-Granularity Representation for Long-range Video Understanding</span>
 <br>Zizhong Li, <b>Haopeng Zhang</b>, Jiawei Zhang
@@ -76,6 +83,12 @@ Optimization in the Era of LLMs</span>
 ## 2026
 
 <ol>
+
+<li>
+<span class="paper-title">Personalised Modeling of Daily Stress and Blood Pressure Reactivity Using Wearable-Based Biosignals</span>
+<br>Ali Kargarandehkordi, ..., <b>Haopeng Zhang</b>, Finale Doshi-Velez, and Peter Washington
+<br>npj Mental Health Research 2026
+</li>
 
 <li>
 <span class="paper-title">Understanding LLM Reasoning for Abstractive Summarization</span>
