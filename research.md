@@ -48,13 +48,6 @@ understand imaging? A Systematic Benchmark of VLMs for Computational Imaging Tas
 <br><a href="https://arxiv.org/abs/2601.08235" target="_blank">[pdf]</a> <a href="https://github.com/hpzhang94/MPCI-Bench" target="_blank">[code]</a>
 </li>
 
-<li>
-<span class="paper-title">Position: On the Risks of Generative Engine
-Optimization in the Era of LLMs</span>
-<br>Yizhu Wen, Nan Zhang, Haohan Yuan, Xun Chen, <b>Haopeng Zhang</b>, Hanqing Guo
-<br>arXiv preprint arXiv:2512.03503
-<br><a href="https://www.techrxiv.org/users/1010717/articles/1370817-position-on-the-risks-of-generative-engine-optimization-in-the-era-of-llms" target="_blank">[pdf]</a>
-</li>
 
 <li>
 <span class="paper-title">Global PIQA: Evaluating Physical Commonsense Reasoning Across 100+ Languages and Cultures</span>
@@ -83,6 +76,14 @@ Optimization in the Era of LLMs</span>
 ## 2026
 
 <ol>
+
+<li>
+<span class="paper-title">Position: On the Risks of Generative Engine
+Optimization in the Era of LLMs</span>
+<br>Yizhu Wen, Nan Zhang, Haohan Yuan, Xun Chen, <b>Haopeng Zhang</b>, Hanqing Guo
+<br>The Forty-third International Conference on Machine Learning (ICML 2026)
+<br><a href="https://www.techrxiv.org/users/1010717/articles/1370817-position-on-the-risks-of-generative-engine-optimization-in-the-era-of-llms" target="_blank">[pdf]</a>
+</li>
 
 <li>
 <span class="paper-title">Personalised Modeling of Daily Stress and Blood Pressure Reactivity Using Wearable-Based Biosignals</span>
