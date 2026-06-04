@@ -57,7 +57,14 @@ I am broadly interested in Natural Language Processing and Artificial Intelligen
 </style>
 
 <div style="max-height: 600px; overflow-y: scroll; padding: 1px; border-radius: 2px;">
-  <ul class="news-list">
+<ul class="news-list">
+<li><span class="news-tag tag-service">Service</span>
+  06.2026: Excited to share that I will participate in the
+  <a href="https://gwu-ai-cyber-edu.github.io/" target="_blank">
+    AI in Cybersecurity Education Faculty Development Summer Institute 2026
+  </a>, supported by the NSF.
+</li>
+    <li><span class="news-tag tag-pub">Publication</span>06.2026: Recent paper now available on arXiv: <a href="hhttps://arxiv.org/abs/2605.19223v1" target="_blank">[Hierarchically Aligned Multimodal Benchmark for Unified Video Understanding]</a>.</li>
     <li><span class="news-tag tag-pub">Publication</span>05.2026: Research papers accepted to ICML 2026 and npj Mental Health Research.</li>
     <li><span class="news-tag tag-pub">Publication</span>04.2026: One research paper on <a href="https://arxiv.org/abs/2512.03503" target="_blank">[LLM Reasoning for Summarization]</a> has been accepted to the findings of ACL 2026.</li>
     <li><span class="news-tag tag-pub">Publication</span>01.2026: Two research paper on <a href="https://arxiv.org/abs/2505.22950" target="_blank">[Structurized Summarization for LLM]</a> and <a href="https://arxiv.org/abs/2508.03110" target="_blank">[RAG Attack]</a> have been accepted to the findings of EACL 2026.</li>
