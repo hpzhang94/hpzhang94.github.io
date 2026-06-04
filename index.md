@@ -61,13 +61,13 @@ I am broadly interested in Natural Language Processing and Artificial Intelligen
 <li><span class="news-tag tag-service">Service</span>
   06.2026: Excited to share that I will participate in the
   <a href="https://gwu-ai-cyber-edu.github.io/" target="_blank" style="text-decoration: underline;">
-    [AI in Cybersecurity Education Faculty Development Summer Institute 2026]
+    AI in Cybersecurity Education Faculty Development Summer Institute 2026
   </a>, supported by the NSF.
 </li>
-    <li><span class="news-tag tag-pub">Publication</span>06.2026: Recent paper now available on arXiv: <a href="hhttps://arxiv.org/abs/2605.19223v1" target="_blank">[Hierarchically Aligned Multimodal Benchmark for Unified Video Understanding]</a>.</li>
+    <li><span class="news-tag tag-pub">Publication</span>06.2026: Recent paper now available on arXiv: <a href="hhttps://arxiv.org/abs/2605.19223v1" target="_blank" style="text-decoration: underline;">Hierarchically Aligned Multimodal Benchmark for Unified Video Understanding</a>.</li>
     <li><span class="news-tag tag-pub">Publication</span>05.2026: Research papers accepted to ICML 2026 and npj Mental Health Research.</li>
-    <li><span class="news-tag tag-pub">Publication</span>04.2026: One research paper on <a href="https://arxiv.org/abs/2512.03503" target="_blank">[LLM Reasoning for Summarization]</a> has been accepted to the findings of ACL 2026.</li>
-    <li><span class="news-tag tag-pub">Publication</span>01.2026: Two research paper on <a href="https://arxiv.org/abs/2505.22950" target="_blank">[Structurized Summarization for LLM]</a> and <a href="https://arxiv.org/abs/2508.03110" target="_blank">[RAG Attack]</a> have been accepted to the findings of EACL 2026.</li>
+    <li><span class="news-tag tag-pub">Publication</span>04.2026: One research paper on <a href="https://arxiv.org/abs/2512.03503" target="_blank" style="text-decoration: underline;">LLM Reasoning for Summarization</a> has been accepted to the findings of ACL 2026.</li>
+    <li><span class="news-tag tag-pub">Publication</span>01.2026: Two research paper on <a href="https://arxiv.org/abs/2505.22950" target="_blank" style="text-decoration: underline;">Structurized Summarization for LLM</a> and <a href="https://arxiv.org/abs/2508.03110" target="_blank" style="text-decoration: underline;">RAG Attack</a> have been accepted to the findings of EACL 2026.</li>
     <li><span class="news-tag tag-pub">Publication</span>12.2025: Recent papers now available on arXiv: <a href="https://arxiv.org/abs/2512.03503" target="_blank">[Reasoning for Summarization]</a>, <a href="https://www.techrxiv.org/users/1010717/articles/1370817-position-on-the-risks-of-generative-engine-optimization-in-the-era-of-llms" target="_blank">[Generative Engine Optimization]</a>, <a href="https://arxiv.org/abs/2510.24081" target="_blank">[Multilingual]</a>, and <a href="https://arxiv.org/abs/2601.08235" target="_blank">[Multimodal Privacy]</a>.</li>
     <li><span class="news-tag tag-funding">Funding</span>10.2025: Happy to receive support from the <a href="https://www.ama-assn.org/education/changemeded-initiative/precision-education" target="_blank">American Medical Association(AMA) Precision Education Grant</a>.</li>
     <li><span class="news-tag tag-award">Award</span>10.2025: Our submission "Hawaiian Language Physical Reasoning Dataset" received the Best Shared Task Contribution Awards at the EMNLP 2025 Multilingual Representation Learning (MRL) Workshop.</li>
