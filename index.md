@@ -60,8 +60,8 @@ I am broadly interested in Natural Language Processing and Artificial Intelligen
 <ul class="news-list">
 <li><span class="news-tag tag-service">Service</span>
   06.2026: Excited to share that I will participate in the
-  <a href="https://gwu-ai-cyber-edu.github.io/" target="_blank">
-    AI in Cybersecurity Education Faculty Development Summer Institute 2026
+  <a href="https://gwu-ai-cyber-edu.github.io/" target="_blank" style="text-decoration: underline;">
+    [AI in Cybersecurity Education Faculty Development Summer Institute 2026]
   </a>, supported by the NSF.
 </li>
     <li><span class="news-tag tag-pub">Publication</span>06.2026: Recent paper now available on arXiv: <a href="hhttps://arxiv.org/abs/2605.19223v1" target="_blank">[Hierarchically Aligned Multimodal Benchmark for Unified Video Understanding]</a>.</li>

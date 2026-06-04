@@ -29,13 +29,13 @@ title: Publications
 
 
 <li>
-
 <span class="paper-title">HAVEN: Hierarchically Aligned Multimodal Benchmark for Unified Video Understanding</span>
 <br>Mengqi Shi, <b>Haopeng Zhang</b>
 <br>arXiv preprint
 <br><a href="https://arxiv.org/abs/2605.19223v1" target="_blank">[pdf]</a><a href="https://github.com/alohalab-ai/align_vsum" target="_blank">[code]</a>
 </li>
 
+<li>
 <span class="paper-title">Do AI
 understand imaging? A Systematic Benchmark of VLMs for Computational Imaging Tasks</span>
 <br>Ethan Chung, Chuanjie Zheng, Jasper Tan, Jingxi Li, <b>Haopeng Zhang</b>, Huaijin Chen
