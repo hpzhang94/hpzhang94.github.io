@@ -32,12 +32,11 @@ title: Publications
 <span class="paper-title">HAVEN: Hierarchically Aligned Multimodal Benchmark for Unified Video Understanding</span>
 <br>Mengqi Shi, <b>Haopeng Zhang</b>
 <br>arXiv preprint
-<br><a href="https://arxiv.org/abs/2605.19223v1" target="_blank">[pdf]</a><a href="https://github.com/alohalab-ai/align_vsum" target="_blank">[code]</a>
+<br><a href="https://arxiv.org/abs/2605.19223v1" target="_blank">[pdf]</a> <a href="https://github.com/alohalab-ai/align_vsum" target="_blank">[code]</a>
 </li>
 
 <li>
-<span class="paper-title">Do AI
-understand imaging? A Systematic Benchmark of VLMs for Computational Imaging Tasks</span>
+<span class="paper-title">Do AI understand imaging? A Systematic Benchmark of VLMs for Computational Imaging Tasks</span>
 <br>Ethan Chung, Chuanjie Zheng, Jasper Tan, Jingxi Li, <b>Haopeng Zhang</b>, Huaijin Chen
 </li>
 
@@ -60,7 +59,7 @@ understand imaging? A Systematic Benchmark of VLMs for Computational Imaging Tas
 <span class="paper-title">Global PIQA: Evaluating Physical Commonsense Reasoning Across 100+ Languages and Cultures</span>
 <br>MRL 25 authors
 <br>arXiv preprint arXiv:2510.24081
-<br><a href="https://arxiv.org/abs/2510.24081" target="_blank">[pdf]</a> <a href="https://mrlbenchmarks.github.io/" target="_blank">[code]</a><a href="https://huggingface.co/datasets/mrlbenchmarks/global-piqa-nonparallel" target="_blank">[data]</a>
+<br><a href="https://arxiv.org/abs/2510.24081" target="_blank">[pdf]</a> <a href="https://mrlbenchmarks.github.io/" target="_blank">[code]</a> <a href="https://huggingface.co/datasets/mrlbenchmarks/global-piqa-nonparallel" target="_blank">[data]</a>
 </li>
 
 

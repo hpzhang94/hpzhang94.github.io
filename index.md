@@ -64,7 +64,7 @@ I am broadly interested in Natural Language Processing and Artificial Intelligen
     AI in Cybersecurity Education Faculty Development Summer Institute 2026
   </a>, supported by the NSF.
 </li>
-    <li><span class="news-tag tag-pub">Publication</span>06.2026: Recent paper now available on arXiv: <a href="hhttps://arxiv.org/abs/2605.19223v1" target="_blank" style="text-decoration: underline;">Hierarchically Aligned Multimodal Benchmark for Unified Video Understanding</a>.</li>
+    <li><span class="news-tag tag-pub">Publication</span>06.2026: Recent paper now available on arXiv: <a href="https://arxiv.org/abs/2605.19223v1" target="_blank" style="text-decoration: underline;">Hierarchically Aligned Multimodal Benchmark for Unified Video Understanding</a>.</li>
     <li><span class="news-tag tag-pub">Publication</span>05.2026: Research papers accepted to ICML 2026 and npj Mental Health Research.</li>
     <li><span class="news-tag tag-pub">Publication</span>04.2026: One research paper on <a href="https://arxiv.org/abs/2512.03503" target="_blank" style="text-decoration: underline;">LLM Reasoning for Summarization</a> has been accepted to the findings of ACL 2026.</li>
     <li><span class="news-tag tag-pub">Publication</span>01.2026: Two research paper on <a href="https://arxiv.org/abs/2505.22950" target="_blank" style="text-decoration: underline;">Structurized Summarization for LLM</a> and <a href="https://arxiv.org/abs/2508.03110" target="_blank" style="text-decoration: underline;">RAG Attack</a> have been accepted to the findings of EACL 2026.</li>
@@ -89,14 +89,14 @@ I am broadly interested in Natural Language Processing and Artificial Intelligen
     <li><span class="news-tag tag-pub">Publication</span>01.2025: One research paper on <a href="https://arxiv.org/pdf/2410.15687" target="_blank">[summmarization domain adaptation]</a> is accepted to findings of NAACL 2025.</li>
     <li><span class="news-tag tag-pub">Publication</span>01.2025: One survey paper on <a href="https://arxiv.org/abs/2406.11289" target="_blank">[text summarization]</a> is accepted to ACM Computing Surveys (IF:23.8).</li>
     <li><span class="news-tag tag-service">Service</span>11.2024: Excited to share that I will organize the 5th Workshop on New Frontiers in Summarization (NewSumm) at EMNLP 2025, Suzhou.</li>
-s    <li><span class="news-tag tag-service">Service</span>11.2024: Honored to serve as an area chair for ACL 2025 and as a minitrack chair for AMCIS 2025.</li>
+    <li><span class="news-tag tag-service">Service</span>11.2024: Honored to serve as an area chair for ACL 2025 and as a minitrack chair for AMCIS 2025.</li>
     <li><span class="news-tag tag-funding">Funding</span>10.2024: Excited to receive computing credit awards from Google Cloud.</li>
     <li><span class="news-tag tag-service">Service</span>09.2024: Honored to serve as a panelist for NSF.</li>
     <li><span class="news-tag tag-funding">Funding</span>09.2024: Glad to receive computing credits from NSF ACCESS Allocations program.</li>
     <li><span class="news-tag tag-service">Service</span>08.2024: Thrilled to attend NSF Innovation, Culture, and Creativity (ICC) workshop.</li>
     <li><span class="news-tag tag-pub">Publication</span>06.2024: My Ph.D. dissertation <a href="https://escholarship.org/uc/item/7zn0b66s" target="_blank">[Building Intelligent and Reliable Summarization Systems]</a> and one survey paper on <a href="https://arxiv.org/abs/2406.11289" target="_blank">[text summarization]</a> is available online.</li>
     <li><span class="news-tag tag-career">Career</span>05.2024: 🎓 Successfully Completed My Ph.D. at UC Davis. Officially Dr. Zhang!</li>
-    <li><span class="news-tag tag-career">Career</span>04.2024: 🎉 I will join the information and computer sciences (ICS) department of <a href="httpsD://www.ics.hawaii.edu/"><u>University of Hawaii at Mānoa</u></a> this Augest. Aloha!</li>
+    <li><span class="news-tag tag-career">Career</span>04.2024: 🎉 I will join the information and computer sciences (ICS) department of <a href="https://www.ics.hawaii.edu/"><u>University of Hawaii at Mānoa</u></a> this August. Aloha!</li>
     <li><span class="news-tag tag-pub">Publication</span>03.2024: one research paper is accepted to NAACL 2024.</li>
     <li><span class="news-tag tag-pub">Publication</span>02.2024: one first-authored research paper is accepted to LREC-COLING 2024.</li>
     <li><span class="news-tag tag-pub">Publication</span>10.2023: two first-authored research papers are accepted to Findings of EMNLP 2023.</li>
@@ -106,7 +106,7 @@ s    <li><span class="news-tag tag-service">Service</span>11.2024: Honored to 
     <li><span class="news-tag tag-pub">Publication</span>06.2023: one first-authored research paper is accepted to LLM4AI workshop at KDD 23.</li>
 <!--     <li><span class="news-tag tag-service">Service</span>06.2023: serve as reviewer for EMNLP 2023, SDM 24 and PC for NewSumm workshop 2023.</li> -->
     <li><span class="news-tag tag-pub">Publication</span>05.2023: one first-authored research paper is accepted to ACL 2023 CODI.</li>
-  s <li><span class="news-tag tag-pub">Publication</span>05.2023: one first-authored research paper is accepted to Findings of ACL 2023.</li>
+<li><span class="news-tag tag-pub">Publication</span>05.2023: one first-authored research paper is accepted to Findings of ACL 2023.</li>
     <li><span class="news-tag tag-career">Career</span>04.2023: start my research internship at Megagon Lab.</li>
     <li><span class="news-tag tag-award">Award</span>03.2023: receive UC Davis GGCS Research Fellowship.</li>
 <!--     <li><span class="news-tag tag-service">Service</span>03.2023: serve as reviewer for ACL 23, IEEE TASLP, IEEE Transactions on Big Data.</li> -->
