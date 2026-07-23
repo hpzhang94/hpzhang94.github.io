@@ -6,10 +6,10 @@ layout: page
 
 ## Courses Taught
 
-- **ICS 661** – Advanced AI (Fall 2024)  
-- **ICS 435 / 635** – Machine Learning (Spring 2025)  
-- **ICS 691** – Advanced NLP and LLM (Fall 2025)
 - **ICS 435** – Machine Learning Fundamentals (Spring 2026)
+- **ICS 691** – Advanced NLP and LLM (Fall 2025)
+- **ICS 435 / 635** – Machine Learning (Spring 2025)  
+- **ICS 661** – Advanced AI (Fall 2024)  
 
 <!-- - **Time**: Monday and Wednesday 9:00 - 10:15 am
 - **Location**: POST 325

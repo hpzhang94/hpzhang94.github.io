@@ -11,7 +11,7 @@ title: Publications
   .paper-title {
     font-size: 1.1em; /* Makes the font slightly larger */
     font-weight: 500; /* Makes the font a bit bolder */
-    color: #0056b3;  /* A nice shade of blue */
+    color: #013220;  /* Very deep green */
   }
   /* Denser publication list: tighter line spacing and smaller gaps between entries */
   ol li {

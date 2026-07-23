@@ -15,8 +15,8 @@ logo: # filename of a logo image that has been placed into your images directory
 owner:
   name: Haopeng Zhang
   avatar: bio-photo.png
-  bio: "Assistant Professor at the University of Hawaii at Manoa."
-  email: haopengz@hawaii.edu
+  bio: '<strong>Assistant Professor<br>School of Data Science, College of Computing and Informatics<br>University of North Carolina at Charlotte</strong>'
+  email: haopeng.zhang@charlotte.edu
   # Do not include the @ symbol in your Twitter username
 # twitter: #username
   linkedin: haopeng-zhang-425aa012b

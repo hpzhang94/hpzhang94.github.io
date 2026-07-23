@@ -33,6 +33,15 @@ body {
 	float: none;
 	display: block;
 	@include font-rem(24);
+	/* keep the site-name link the original near-black, not the site link color */
+	a {
+		color: #343434;
+		&:visited,
+		&:hover,
+		&:focus {
+			color: #343434;
+		}
+	}
 	@media #{$small} {
 		@include grid(12,2);
 		@include prefix(12,0.5);
@@ -88,6 +97,13 @@ body {
 			decoration: none;
 			border-bottom: 0 solid transparent;
 			@include transition(all .2s);
+			/* keep nav links the original near-black, not the site link color */
+			color: #343434;
+			&:visited,
+			&:hover,
+			&:focus {
+				color: #343434;
+			}
 			@media #{$small} {
 				display: inline;
 				padding: 0;
@@ -354,14 +370,14 @@ body.home #main {
 			> div {
 				flex-direction: row;     /* desktop: photo left, text right */
 				align-items: center;
-				justify-content: center;
+				justify-content: center; /* whole photo+text group centered on page */
 			}
 
 			.bio-photo {
 				margin: 0 2.2em 0 0;
 			}
 			.author-details {
-				flex: 1 1 auto;
+				flex: 0 1 auto;          /* don't stretch, so the group stays centered */
 				width: auto;
 			}
 			p {
@@ -586,12 +602,12 @@ body.home #main {
 
 /* Post content wrapper */
 .article-wrap {
-	// Dotted line underlines for links
+	// Links are not underlined
 	p > a,
 	p > em > a,
 	p > strong > a,
 	li > a {
-		text-decoration: underline;
+		text-decoration: none;
 	}
 }
 

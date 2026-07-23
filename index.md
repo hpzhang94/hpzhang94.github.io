@@ -5,7 +5,7 @@ layout: home
 # menuorder: 1
 ---
 
-Haopeng Zhang is a tenure-track Assistant Professor in the Department of Information and Computer Sciences at the <a href="https://www.ics.hawaii.edu/"><u>University of Hawai‘i at Mānoa</u></a>, where he leads the ALOHA (Advanced Language Processing and Human Analytics) Lab. He earned his Ph.D. in Computer Science from the University of California, Davis, under the supervision of <a href="http://jiaweizhang.net/"><u>Dr. Jiawei Zhang</u></a>. He also holds dual M.S. degrees in Electrical Engineering and Computational Science from the Georgia Institute of Technology and a B.S. in Electrical Engineering from the University of Illinois at Urbana-Champaign (UIUC). His research interests include natural language processing (NLP), large language models (LLMs), and AI for scientific discovery (AI4Science).
+Haopeng Zhang is a tenure-track Assistant Professor in the <a href="https://sds.charlotte.edu/">School of Data Science</a> in the <a href="https://cci.charlotte.edu/">College of Computing and Informatics</a> at the <a href="https://www.charlotte.edu/">University of North Carolina at Charlotte</a>, where he directs the ALOHA (Advanced Language Processing and Human Analytics) Lab. Prior to UNC Charlotte, he was a tenure-track Assistant Professor in the Department of Information and Computer Sciences at the <a href="https://www.ics.hawaii.edu/">University of Hawaiʻi at Mānoa</a>. He received his Ph.D. in Computer Science from the University of California, Davis, under the supervision of <a href="http://jiaweizhang.net/">Dr. Jiawei Zhang</a>. He also holds dual M.S. degrees in Electrical Engineering and Computational Science from the Georgia Institute of Technology and a B.S. in Electrical Engineering from the University of Illinois Urbana-Champaign (UIUC). His research focuses on natural language processing, large language models, agentic AI, and their real-world applications.
 
 ## Research Interests
 I am broadly interested in Natural Language Processing and Artificial Intelligence, with a particular focus on:
@@ -58,21 +58,22 @@ I am broadly interested in Natural Language Processing and Artificial Intelligen
     line-height: 1.2;   /* Tighter than the theme default for a denser list */
   }
 
-  /* Unify all news links to a simple underline style */
+  /* News links are not underlined */
   .news-list a {
-    text-decoration: underline;
+    text-decoration: none;
   }
 </style>
 
 <div style="max-height: 210px; overflow-y: scroll; padding: 1px; border-radius: 2px;">
 <ul class="news-list">
+<li><span class="news-tag tag-career">Career</span>08.2026: Happy to share that I will join the <a href="https://sds.charlotte.edu/" target="_blank">School of Data Science</a> in the <a href="https://cci.charlotte.edu/" target="_blank">College of Computing and Informatics</a> at the <a href="https://www.charlotte.edu/" target="_blank">University of North Carolina at Charlotte</a> as an Assistant Professor this fall.</li>
 <li><span class="news-tag tag-funding">Funding</span>07.2026: Happy to receive support from the <a href="https://www.hawaii.edu/news/article.php?aId=14629" target="_blank">NOAA Cooperative Institute Fostering Aquaculture Research and Markets (CIFARM)</a>.</li>
 <li><span class="news-tag tag-career">Career</span>06.2026: Congratulations to Shouju on starting her research internship at Zoom Inc. and Haohan on starting his research internship at Ping An Insurance.</li>
-<li><span class="news-tag tag-service">Service</span>06.2026: Excited to participate in the <a href="https://gwu-ai-cyber-edu.github.io/" target="_blank" style="text-decoration: underline;">AI in Cybersecurity Education Faculty Development Summer Institute 2026</a>, supported by NSF.</li>
-<li><span class="news-tag tag-pub">Pub</span>06.2026: Recent paper now available on arXiv: <a href="https://arxiv.org/abs/2605.19223v1" target="_blank" style="text-decoration: underline;">Hierarchically Aligned Multimodal Benchmark for Unified Video Understanding</a>.</li>
+<li><span class="news-tag tag-service">Service</span>06.2026: Excited to participate in the <a href="https://gwu-ai-cyber-edu.github.io/" target="_blank">AI in Cybersecurity Education Faculty Development Summer Institute 2026</a>, supported by NSF.</li>
+<li><span class="news-tag tag-pub">Pub</span>06.2026: Recent paper now available on arXiv: <a href="https://arxiv.org/abs/2605.19223v1" target="_blank">Hierarchically Aligned Multimodal Benchmark for Unified Video Understanding</a>.</li>
 <li><span class="news-tag tag-pub">Pub</span>05.2026: Research papers accepted to ICML 2026 and npj Mental Health Research.</li>
-<li><span class="news-tag tag-pub">Pub</span>04.2026: One research paper on <a href="https://arxiv.org/abs/2512.03503" target="_blank" style="text-decoration: underline;">LLM Reasoning for Summarization</a> has been accepted to the findings of ACL 2026.</li>
-<li><span class="news-tag tag-pub">Pub</span>01.2026: Two research papers on <a href="https://arxiv.org/abs/2505.22950" target="_blank" style="text-decoration: underline;">Structured Summarization for LLM</a> and <a href="https://arxiv.org/abs/2508.03110" target="_blank" style="text-decoration: underline;">RAG Attack</a> have been accepted to the findings of EACL 2026.</li>
+<li><span class="news-tag tag-pub">Pub</span>04.2026: One research paper on <a href="https://arxiv.org/abs/2512.03503" target="_blank">LLM Reasoning for Summarization</a> has been accepted to the findings of ACL 2026.</li>
+<li><span class="news-tag tag-pub">Pub</span>01.2026: Two research papers on <a href="https://arxiv.org/abs/2505.22950" target="_blank">Structured Summarization for LLM</a> and <a href="https://arxiv.org/abs/2508.03110" target="_blank">RAG Attack</a> have been accepted to the findings of EACL 2026.</li>
 <li><span class="news-tag tag-pub">Pub</span>12.2025: Recent papers now available on arXiv: <a href="https://arxiv.org/abs/2512.03503" target="_blank">Reasoning for Summarization</a>, <a href="https://www.techrxiv.org/users/1010717/articles/1370817-position-on-the-risks-of-generative-engine-optimization-in-the-era-of-llms" target="_blank">Generative Engine Optimization</a>, <a href="https://arxiv.org/abs/2510.24081" target="_blank">Multilingual</a>, and <a href="https://arxiv.org/abs/2601.08235" target="_blank">Multimodal Privacy</a>.</li>
 <li><span class="news-tag tag-funding">Funding</span>10.2025: Happy to receive support from the <a href="https://www.ama-assn.org/education/changemeded-initiative/precision-education" target="_blank">American Medical Association(AMA) Precision Education Grant</a>.</li>
 <li><span class="news-tag tag-award">Award</span>10.2025: Our submission "Hawaiian Language Physical Reasoning Dataset" received the Best Shared Task Contribution Awards at the EMNLP 2025 Multilingual Representation Learning (MRL) Workshop.</li>
@@ -101,7 +102,7 @@ I am broadly interested in Natural Language Processing and Artificial Intelligen
 <li><span class="news-tag tag-service">Service</span>08.2024: Thrilled to attend NSF Innovation, Culture, and Creativity (ICC) workshop.</li>
 <li><span class="news-tag tag-pub">Pub</span>06.2024: My Ph.D. dissertation <a href="https://escholarship.org/uc/item/7zn0b66s" target="_blank">Building Intelligent and Reliable Summarization Systems</a> and one survey paper on <a href="https://arxiv.org/abs/2406.11289" target="_blank">text summarization</a> is available online.</li>
 <li><span class="news-tag tag-career">Career</span>05.2024: 🎓 Successfully Completed My Ph.D. at UC Davis. Officially Dr. Zhang!</li>
-<li><span class="news-tag tag-career">Career</span>04.2024: 🎉 I will join the information and computer sciences (ICS) department of <a href="https://www.ics.hawaii.edu/"><u>University of Hawaii at Mānoa</u></a> this August. Aloha!</li>
+<li><span class="news-tag tag-career">Career</span>04.2024: 🎉 I will join the information and computer sciences (ICS) department of <a href="https://www.ics.hawaii.edu/">University of Hawaii at Mānoa</a> this August. Aloha!</li>
 <li><span class="news-tag tag-pub">Pub</span>03.2024: one research paper is accepted to NAACL 2024.</li>
 <li><span class="news-tag tag-pub">Pub</span>02.2024: one first-authored research paper is accepted to LREC-COLING 2024.</li>
 <li><span class="news-tag tag-pub">Pub</span>10.2023: two first-authored research papers are accepted to Findings of EMNLP 2023.</li>
@@ -121,6 +122,8 @@ I am broadly interested in Natural Language Processing and Artificial Intelligen
 
 <br>
 
+<div style="text-align: center;">
 <a href="https://info.flagcounter.com/pYGa"><img src="https://s11.flagcounter.com/count2/pYGa/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_30/viewers_0/labels_0/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+</div>
 
 
