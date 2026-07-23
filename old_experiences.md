@@ -36,7 +36,7 @@ layout: page
 
 ## Professional Experiences
 
-<b> AWS AI Lab </b> - Stanta Clara, CA, US
+<b> AWS AI Lab </b> - Santa Clara, CA, US
 <ul>
     <li>
         Applied Scientist Intern (June 2023 - Sep. 2023)
@@ -86,7 +86,7 @@ layout: page
     Abstractive summarization faithfulness and domain adaptation
 </li>
 <li>
-Mentored by <a href="https://scholar.google.co.uk/citations?user=krh3p8AAAAAJ&hl=en">Dr. Samih Yavuz</a>, <a href="https://scholar.google.com/citations?user=H_6RQ7oAAAAJ&hl=en">Dr. Yingbo Zhou</a>
+Mentored by <a href="https://scholar.google.co.uk/citations?user=krh3p8AAAAAJ&hl=en">Dr. Semih Yavuz</a>, <a href="https://scholar.google.com/citations?user=H_6RQ7oAAAAJ&hl=en">Dr. Yingbo Zhou</a>
 </li>
 </ul>
 
