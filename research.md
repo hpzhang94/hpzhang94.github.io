@@ -35,15 +35,10 @@ title: Publications
 </li>
 
 <li>
-<span class="paper-title">Do AI understand imaging? A Systematic Benchmark of VLMs for Computational Imaging Tasks</span>
+<span class="paper-title">Does AI Understand Imaging? A Systematic Benchmark of Agentic AI for Computational Imaging Tasks</span>
 <br>Ethan Chung, Chuanjie Zheng, Jasper Tan, Jingxi Li, <b>Haopeng Zhang</b>, Huaijin Chen
-</li>
-
-<li>
-<span class="paper-title">MMViR: A Multi-Modal and Multi-Granularity Representation for Long-range Video Understanding</span>
-<br>Zizhong Li, <b>Haopeng Zhang</b>, Jiawei Zhang
 <br>arXiv preprint
-<br><a href="https://arxiv.org/abs/2601.05495" target="_blank">[pdf]</a>
+<br><a href="https://arxiv.org/abs/2607.07189" target="_blank">[pdf]</a>
 </li>
 
 <li>
@@ -81,6 +76,13 @@ title: Publications
 ## 2026
 
 <ol>
+
+<li>
+<span class="paper-title">MMViR: A Multi-Modal and Multi-Granularity Representation for Long-range Video Understanding</span>
+<br>Zizhong Li, <b>Haopeng Zhang</b>, Jiawei Zhang
+<br>The 1st International Workshop on Sustainable and Efficient Language, Vision, and Action Models <b>(ACL SELVA 2026)</b>
+<br><a href="https://arxiv.org/abs/2601.05495" target="_blank">[pdf]</a>
+</li>
 
 <li>
 <span class="paper-title">Position: On the Risks of Generative Engine
@@ -127,7 +129,7 @@ of the Association for Computational Linguistics <b>(EACL 2026)</b>
 <span class="paper-title">Hawaiian Language Physical Reasoning
 Dataset</span>
 <br>Cade J. Kanoniakapueo Kane, A. Kuuipolani Kanahele Wong, Pua Niau-Puhipau, R. Kekeha Solis, Bruce Torres Fischer, Winston Wu, <b>Haopeng Zhang</b>
-<br>Proceedings of the 5th Multilingual Representation Learning Workshop <b>(EMNLP MRL 2025)</b>
+<br>The 5th Multilingual Representation Learning Workshop <b>(EMNLP MRL 2025)</b>
 </li>
 
 <li>
