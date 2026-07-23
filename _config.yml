@@ -1,6 +1,13 @@
 # Site wide configuration
 
 title: Haopeng Zhang
+tagline: "Assistant Professor · NLP, LLMs & AI4Science"
+url: "https://hpzhang94.github.io"
+description: >-
+  Haopeng Zhang is a tenure-track Assistant Professor in the Department of
+  Information and Computer Sciences at the University of Hawai‘i at Mānoa,
+  where he leads the ALOHA Lab. His research spans natural language processing
+  (NLP), large language models (LLMs), and AI for scientific discovery.
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
@@ -42,8 +49,9 @@ owner:
 
 # The following adjust the accents for your site. If you would like to further edit colors, fonts, font sizes, etc.
 # you may do so in _sass/variables.scss
-highlight-color: '#022851'
-lowlight-color: '#FFBF00'
+# UNC Charlotte brand colors: gold (primary) + Niner Green (accent)
+highlight-color: '#A49665'
+lowlight-color: '#005035'
 
   # NOTE: If you would like your site to be licensed under a creative commons license, uncomment the 'yes' next to the type of license you wish to use.
 creative-commons:

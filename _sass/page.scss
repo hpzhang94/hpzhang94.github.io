@@ -250,6 +250,145 @@ $button-size: 1.5rem;
 	}
 }
 
+/* Full-width pages: no author sidebar, content fills the width
+   (overrides the narrow grid column set on .page above) */
+body.full-width {
+	.article-author-side {
+		display: none;
+	}
+	#main .page {
+		display: block;
+		float: none;
+		width: auto;
+		margin-left: 0;
+		margin-right: 0;
+		padding-left: 4%;
+		padding-right: 4%;
+	}
+}
+
+/* Site-wide nav (default for every page, current and future):
+   hide the redundant site-name link and use a centered, enlarged tab bar
+   — matching the homepage header. */
+.site-name {
+	display: none;
+}
+
+.top-navigation {
+	@media #{$small} {
+		@include grid(12, 12);
+		@include prefix(12, 0);
+		@include suffix(12, 0);
+		display: block;
+		float: none;
+	}
+	ul {
+		text-align: center;
+	}
+	li {
+		@include font-rem(19);
+		@media #{$small} {
+			margin: 0 20px;
+		}
+		a {
+			@include font-rem(19);
+		}
+	}
+}
+
+/* Homepage: show the author bio as a centered banner on top
+   (instead of a left sidebar), with content filling the width below */
+body.home #main {
+	.article-author-side {
+		display: block;
+		text-align: center;
+		float: none;
+		width: auto;
+		max-width: 760px;
+		margin: 0 auto 2.5em;
+		padding: 0 4% 2em;
+		border-bottom: 1px solid lighten($black, 75%);
+
+		/* the schema.org Person wrapper is the actual flex row */
+		> div {
+			display: flex;
+			flex-direction: column;    /* mobile: photo on top, centered */
+			align-items: center;
+		}
+
+		.bio-photo {
+			display: block;
+			flex: 0 0 auto;
+			width: 165px;
+			max-width: 165px;
+			margin: 0 0 1em;
+			@include rounded(165px);
+			border: 3px solid $lowlightcolor;
+			box-shadow: 0 3px 12px rgba(0, 0, 0, 0.15);
+		}
+		.author-details {
+			width: 100%;
+		}
+		h3 {
+			max-width: none;
+			margin: 0 0 0.2em;
+			white-space: nowrap;
+			@include font-rem(28);
+		}
+		p {
+			max-width: 700px;
+			margin: 0 auto 1em;
+			font-size: 95%;
+			font-style: normal;
+		}
+		.author-social {
+			display: inline-block;
+			max-width: none;
+			margin: 0 9px 6px;
+			@include font-rem(15);
+		}
+
+		@media #{$small} {
+			text-align: left;
+
+			> div {
+				flex-direction: row;     /* desktop: photo left, text right */
+				align-items: center;
+				justify-content: center;
+			}
+
+			.bio-photo {
+				margin: 0 2.2em 0 0;
+			}
+			.author-details {
+				flex: 1 1 auto;
+				width: auto;
+			}
+			p {
+				margin: 0 0 1em;
+			}
+			.author-social {
+				margin: 0 18px 6px 0;
+			}
+		}
+	}
+
+	.page {
+		display: block;
+		float: none;
+		width: auto;
+		margin-left: 0;
+		margin-right: 0;
+		padding-left: 4%;
+		padding-right: 4%;
+
+		/* Name is already shown in the banner above — hide the duplicate title */
+		> h1 {
+			display: none;
+		}
+	}
+}
+
 /* Index listing specific styling */
 #index {
 	@include container;

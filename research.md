@@ -13,16 +13,15 @@ title: Publications
     font-weight: 500; /* Makes the font a bit bolder */
     color: #0056b3;  /* A nice shade of blue */
   }
-  /* Optional: Add a bit more space between list items for readability */
+  /* Denser publication list: tighter line spacing and smaller gaps between entries */
   ol li {
-    margin-bottom: 1.25em; 
+    margin-bottom: 0.55em;
+    line-height: 1.4;
   }
 </style>
 
 \* Equal Contributions
 
-
-## Publications
 
 ## Preprints
 <ol>
