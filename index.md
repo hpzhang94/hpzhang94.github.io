@@ -66,6 +66,8 @@ I am broadly interested in Natural Language Processing and Artificial Intelligen
 
 <div style="max-height: 210px; overflow-y: scroll; padding: 1px; border-radius: 2px;">
 <ul class="news-list">
+<li><span class="news-tag tag-funding">Funding</span>07.2026: Happy to receive support from the <a href="https://www.hawaii.edu/news/article.php?aId=14629" target="_blank">NOAA Cooperative Institute Fostering Aquaculture Research and Markets (CIFARM)</a>.</li>
+<li><span class="news-tag tag-career">Career</span>06.2026: Congratulations to Shouju on starting her research internship at Zoom Inc. and Haohan on starting his research internship at Ping An Insurance.</li>
 <li><span class="news-tag tag-service">Service</span>06.2026: Excited to participate in the <a href="https://gwu-ai-cyber-edu.github.io/" target="_blank" style="text-decoration: underline;">AI in Cybersecurity Education Faculty Development Summer Institute 2026</a>, supported by NSF.</li>
 <li><span class="news-tag tag-pub">Pub</span>06.2026: Recent paper now available on arXiv: <a href="https://arxiv.org/abs/2605.19223v1" target="_blank" style="text-decoration: underline;">Hierarchically Aligned Multimodal Benchmark for Unified Video Understanding</a>.</li>
 <li><span class="news-tag tag-pub">Pub</span>05.2026: Research papers accepted to ICML 2026 and npj Mental Health Research.</li>
