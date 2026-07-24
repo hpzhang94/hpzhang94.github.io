@@ -66,6 +66,7 @@ I am broadly interested in Natural Language Processing and Artificial Intelligen
 
 <div style="max-height: 210px; overflow-y: scroll; padding: 1px; border-radius: 2px;">
 <ul class="news-list">
+<li><span class="news-tag tag-service">Service</span>07.2026: Excited to join the organizing committee of <a href="https://2027.naacl.org/" target="_blank">NAACL 2027</a> as Sponsorship Co-Chair.</li>
 <li><span class="news-tag tag-career">Career</span>08.2026: Happy to share that I will join the <a href="https://sds.charlotte.edu/" target="_blank">School of Data Science</a> in the <a href="https://cci.charlotte.edu/" target="_blank">College of Computing and Informatics</a> at the <a href="https://www.charlotte.edu/" target="_blank">University of North Carolina at Charlotte</a> as an Assistant Professor this fall.</li>
 <li><span class="news-tag tag-funding">Funding</span>07.2026: Happy to receive support from the <a href="https://www.hawaii.edu/news/article.php?aId=14629" target="_blank">NOAA Cooperative Institute Fostering Aquaculture Research and Markets (CIFARM)</a>.</li>
 <li><span class="news-tag tag-career">Career</span>06.2026: Congratulations to Shouju on starting her research internship at Zoom Inc. and Haohan on starting his research internship at Ping An Insurance.</li>
