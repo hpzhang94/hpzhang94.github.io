@@ -28,6 +28,14 @@ title: Publications
 
 
 <li>
+<span class="paper-title">Zero-Fi: Zero-Shot Wi-Fi-Based Human Activity Recognition via Contrastive Signal-Language Alignment</span>
+<br>Yitong Shen, Cheng Guo, Peiliang Wang, Jingzhe Zhang, Yi Sheng, <b>Haopeng Zhang</b>, Hongfei Xue, Yili Ren
+<br>arXiv preprint
+<br><a href="https://arxiv.org/abs/2607.26381" target="_blank">[pdf]</a>
+</li>
+
+
+<li>
 <span class="paper-title">HAVEN: Hierarchically Aligned Multimodal Benchmark for Unified Video Understanding</span>
 <br>Mengqi Shi, <b>Haopeng Zhang</b>
 <br>arXiv preprint
