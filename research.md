@@ -26,6 +26,12 @@ title: Publications
 ## Preprints
 <ol>
 
+<li>
+<span class="paper-title">AgentPrivArena: Evaluating and Auditing Real-world AI Agent Privacy</span>
+<br>Shouju Wang, <b>Haopeng Zhang</b>
+<br>arXiv preprint
+</li>
+
 
 <li>
 <span class="paper-title">Zero-Fi: Zero-Shot Wi-Fi-Based Human Activity Recognition via Contrastive Signal-Language Alignment</span>
@@ -84,6 +90,13 @@ title: Publications
 ## 2026
 
 <ol>
+
+<li>
+<span class="paper-title">The Convergence of Linguistics and Computer Science</span>
+<br>William O'Grady, <b>Haopeng Zhang</b>, Miseon Lee
+<br>Japanese/Korean Linguistics, 32(1)
+<br><a href="https://escholarship.org/uc/item/39w505mk" target="_blank">[pdf]</a>
+</li>
 
 <li>
 <span class="paper-title">MMViR: A Multi-Modal and Multi-Granularity Representation for Long-range Video Understanding</span>
