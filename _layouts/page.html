@@ -17,7 +17,7 @@
 
 <div id="main" role="main">
   <article markdown="1" class="page">
-    <h1>{{ page.title }}</h1>
+    {% unless page.hide_title %}<h1>{{ page.title }}</h1>{% endunless %}
     <div class="article-wrap">
       {{ content }}
       {% if page.share != false %}
