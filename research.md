@@ -56,22 +56,6 @@ title: Publications
 </li>
 
 <li>
-<span class="paper-title">MPCI-Bench: A Benchmark for Multimodal Pairwise Contextual Integrity Evaluation of Language Model Agents</span>
-<br>Shouju Wang, <b>Haopeng Zhang</b>
-<br>arXiv preprint 
-<br><a href="https://arxiv.org/abs/2601.08235" target="_blank">[pdf]</a> <a href="https://github.com/hpzhang94/MPCI-Bench" target="_blank">[code]</a>
-</li>
-
-
-<li>
-<span class="paper-title">Global PIQA: Evaluating Physical Commonsense Reasoning Across 100+ Languages and Cultures</span>
-<br>MRL 25 authors
-<br>arXiv preprint arXiv:2510.24081
-<br><a href="https://arxiv.org/abs/2510.24081" target="_blank">[pdf]</a> <a href="https://mrlbenchmarks.github.io/" target="_blank">[code]</a> <a href="https://huggingface.co/datasets/mrlbenchmarks/global-piqa-nonparallel" target="_blank">[data]</a>
-</li>
-
-
-<li>
 <span class="paper-title">A Revisit of Fake News Dataset with Augmented Fact-checking by ChatGPT</span>
 <br>Zizhong Li, <b>Haopeng Zhang</b>, Jiawei Zhang
 <br>arXiv preprint arXiv:2312.11870
@@ -90,6 +74,20 @@ title: Publications
 ## 2026
 
 <ol>
+
+<li>
+<span class="paper-title">MPCI-Bench: A Benchmark for Multimodal Pairwise Contextual Integrity Evaluation of Language Model Agents</span>
+<br>Shouju Wang, <b>Haopeng Zhang</b>
+<br>NeurIPS 2026 Evaluations &amp; Datasets Track
+<br><a href="https://arxiv.org/abs/2601.08235" target="_blank">[pdf]</a> <a href="https://github.com/hpzhang94/MPCI-Bench" target="_blank">[code]</a>
+</li>
+
+<li>
+<span class="paper-title">Global PIQA: Evaluating Physical Commonsense Reasoning Across 100+ Languages and Cultures</span>
+<br>MRL 25 authors
+<br>NeurIPS 2026 Evaluations &amp; Datasets Track
+<br><a href="https://arxiv.org/abs/2510.24081" target="_blank">[pdf]</a> <a href="https://mrlbenchmarks.github.io/" target="_blank">[code]</a> <a href="https://huggingface.co/datasets/mrlbenchmarks/global-piqa-nonparallel" target="_blank">[data]</a>
+</li>
 
 <li>
 <span class="paper-title">The Convergence of Linguistics and Computer Science</span>
@@ -117,6 +115,12 @@ Optimization in the Era of LLMs</span>
 <span class="paper-title">Personalised Modeling of Daily Stress and Blood Pressure Reactivity Using Wearable-Based Biosignals</span>
 <br>Ali Kargarandehkordi, ..., <b>Haopeng Zhang</b>, Finale Doshi-Velez, and Peter Washington
 <br>npj Mental Health Research 2026
+</li>
+
+<li>
+<span class="paper-title">Limited Utility of Consumer Wearable APIs for Predicting Substance Use and Craving, Despite Model Personalization</span>
+<br>Ali Kargarandehkordi, Agnik Banerjee, Yang Qian, Aditi Jaiswal, Christopher Slade, Yinan Sun, Shizhe Li, Xuhai Xu, Roberto Benzo, <b>Haopeng Zhang</b>, Finale Doshi-Velez, Kristina Phillips, Peter Washington
+<br>npj Biosensing 2026
 </li>
 
 <li>

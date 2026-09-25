@@ -66,6 +66,7 @@ I am broadly interested in Natural Language Processing and Artificial Intelligen
 
 <div style="max-height: 210px; overflow-y: scroll; padding: 1px; border-radius: 2px;">
 <ul class="news-list">
+<li><span class="news-tag tag-pub">Pub</span>09.2026: 2 papers accepted to NeurIPS 2026, and 1 to npj Biosensing.</li>
 <li><span class="news-tag tag-service">Service</span>08.2026: Happy to serve on the standing reviewer committee for TACL and Computational Linguistics.</li>
 <li><span class="news-tag tag-service">Service</span>08.2026: Excited to join the organizing committee of <a href="https://2027.naacl.org/organization/" target="_blank">NAACL 2027</a> as Sponsorship Co-Chair.</li>
 <li><span class="news-tag tag-career">Career</span>08.2026: Happy to share that I will join the <a href="https://sds.charlotte.edu/" target="_blank">School of Data Science</a> in the <a href="https://cci.charlotte.edu/" target="_blank">College of Computing and Informatics</a> at the <a href="https://www.charlotte.edu/" target="_blank">University of North Carolina at Charlotte</a> as an Assistant Professor this fall.</li>
@@ -127,5 +128,3 @@ I am broadly interested in Natural Language Processing and Artificial Intelligen
 <div style="text-align: center;">
 <a href="https://info.flagcounter.com/pYGa"><img src="https://s11.flagcounter.com/count2/pYGa/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_30/viewers_0/labels_0/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 </div>
-
-
