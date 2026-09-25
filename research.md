@@ -76,6 +76,12 @@ title: Publications
 <ol>
 
 <li>
+<span class="paper-title">Limited Utility of Consumer Wearable APIs for Predicting Substance Use and Craving, Despite Model Personalization</span>
+<br>Ali Kargarandehkordi, ..., <b>Haopeng Zhang</b>, Finale Doshi-Velez, Kristina Phillips, Peter Washington
+<br>npj Biosensing 2026
+</li>
+
+<li>
 <span class="paper-title">MPCI-Bench: A Benchmark for Multimodal Pairwise Contextual Integrity Evaluation of Language Model Agents</span>
 <br>Shouju Wang, <b>Haopeng Zhang</b>
 <br>NeurIPS 2026 Evaluations &amp; Datasets Track
@@ -117,11 +123,6 @@ Optimization in the Era of LLMs</span>
 <br>npj Mental Health Research 2026
 </li>
 
-<li>
-<span class="paper-title">Limited Utility of Consumer Wearable APIs for Predicting Substance Use and Craving, Despite Model Personalization</span>
-<br>Ali Kargarandehkordi, Agnik Banerjee, Yang Qian, Aditi Jaiswal, Christopher Slade, Yinan Sun, Shizhe Li, Xuhai Xu, Roberto Benzo, <b>Haopeng Zhang</b>, Finale Doshi-Velez, Kristina Phillips, Peter Washington
-<br>npj Biosensing 2026
-</li>
 
 <li>
 <span class="paper-title">Understanding LLM Reasoning for Abstractive Summarization</span>
