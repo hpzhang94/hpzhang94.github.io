@@ -27,9 +27,17 @@ title: Publications
 <ol>
 
 <li>
+<span class="paper-title">Forging LLM Authorship Fingerprints with Targeted Rewriting</span>
+<br>Haohan Yuan, Simin Chen, Xi Niu, Hanqing Guo, Depeng Xu, <b>Haopeng Zhang</b>
+<br>arXiv preprint
+<br><a href="https://arxiv.org/abs/2609.38831" target="_blank">[pdf]</a>
+</li>
+
+<li>
 <span class="paper-title">AgentPrivArena: Evaluating and Auditing Real-world AI Agent Privacy</span>
 <br>Shouju Wang, <b>Haopeng Zhang</b>
 <br>arXiv preprint
+<br><a href="https://arxiv.org/abs/2610.06454" target="_blank">[pdf]</a>
 </li>
 
 
@@ -85,7 +93,7 @@ title: Publications
 <span class="paper-title">MPCI-Bench: A Benchmark for Multimodal Pairwise Contextual Integrity Evaluation of Language Model Agents</span>
 <br>Shouju Wang, <b>Haopeng Zhang</b>
 <br>NeurIPS 2026 Evaluations &amp; Datasets Track
-<br><a href="https://arxiv.org/abs/2601.08235" target="_blank">[pdf]</a> <a href="https://github.com/hpzhang94/MPCI-Bench" target="_blank">[code]</a>
+<br><a href="https://arxiv.org/abs/2601.08235" target="_blank">[pdf]</a> <a href="https://github.com/hpzhang94/MPCI-Bench" target="_blank">[data]</a>
 </li>
 
 <li>
