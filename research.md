@@ -26,6 +26,22 @@ title: Publications
 ## Preprints
 <ol>
 
+
+<li>
+  <span class="paper-title">Who Gets Unmasked? Sampler-Induced Bias in Diffusion Language Models</span>
+  <br>Xujun Che, Farsheed Haque, Depeng Xu, Xi Niu, <b>Haopeng Zhang</b>
+  <br>arXiv preprint
+  <br><a href="https://arxiv.org/abs/2610.24795" target="_blank">[pdf]</a>
+</li>
+
+<li>
+  <span class="paper-title">CARA: Causally Guided Retrieval Agent for Question Answering</span>
+  <br>Weicheng Liu, Xiangcheng Wu, Depeng Xu, <b>Haopeng Zhang</b>, Xi Niu
+  <br>arXiv preprint
+  <br><a href="https://arxiv.org/abs/2610.22017" target="_blank">[pdf]</a>
+</li>
+
+
 <li>
 <span class="paper-title">Forging LLM Authorship Fingerprints with Targeted Rewriting</span>
 <br>Haohan Yuan, Simin Chen, Xi Niu, Hanqing Guo, Depeng Xu, <b>Haopeng Zhang</b>
@@ -33,19 +49,12 @@ title: Publications
 <br><a href="https://arxiv.org/abs/2609.38831" target="_blank">[pdf]</a>
 </li>
 
-<li>
-<span class="paper-title">AgentPrivArena: Evaluating and Auditing Real-world AI Agent Privacy</span>
-<br>Shouju Wang, <b>Haopeng Zhang</b>
-<br>arXiv preprint
-<br><a href="https://arxiv.org/abs/2610.06454" target="_blank">[pdf]</a>
-</li>
-
 
 <li>
-<span class="paper-title">Zero-Fi: Zero-Shot Wi-Fi-Based Human Activity Recognition via Contrastive Signal-Language Alignment</span>
-<br>Yitong Shen, Cheng Guo, Peiliang Wang, Jingzhe Zhang, Yi Sheng, <b>Haopeng Zhang</b>, Hongfei Xue, Yili Ren
-<br>arXiv preprint
-<br><a href="https://arxiv.org/abs/2607.26381" target="_blank">[pdf]</a>
+  <span class="paper-title">Zero-Fi: Zero-Shot Wi-Fi-Based Human Activity Recognition via Contrastive Signal-Language Alignment</span>
+  <br>Yitong Shen, Cheng Guo, Peiliang Wang, Jingzhe Zhang, Yi Sheng, <b>Haopeng Zhang</b>, Hongfei Xue, Yili Ren
+  <br>arXiv preprint
+  <br><a href="https://arxiv.org/abs/2607.26381" target="_blank">[pdf]</a>
 </li>
 
 
@@ -82,6 +91,13 @@ title: Publications
 ## 2026
 
 <ol>
+
+<li>
+<span class="paper-title">AgentPrivArena: Evaluating and Auditing Real-world AI Agent Privacy</span>
+<br>Shouju Wang, <b>Haopeng Zhang</b>
+<br>EACL 2027 Findings
+<br><a href="https://arxiv.org/abs/2610.06454" target="_blank">[pdf]</a> <a href="https://shouju-wang.github.io/agentprivarena/" target="_blank">[web]</a>
+</li>
 
 <li>
 <span class="paper-title">Limited Utility of Consumer Wearable APIs for Predicting Substance Use and Craving, Despite Model Personalization</span>

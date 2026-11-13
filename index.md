@@ -66,6 +66,8 @@ I am broadly interested in Natural Language Processing and Artificial Intelligen
 
 <div style="max-height: 210px; overflow-y: scroll; padding: 1px; border-radius: 2px;">
 <ul class="news-list">
+<li><span class="news-tag tag-pub">Pub</span>11.2026: One research paper accepted to EACL Finding.</li>
+<li><span class="news-tag tag-funding">Funding</span>10.2026: Happy to receive support from the <a href="https://teaching.charlotte.edu/services-programs/sotl/grants/" target="_blank">Scholarship of Teaching and Learning (SoTL) Grant</a>.</li>
 <li><span class="news-tag tag-pub">Pub</span>09.2026: Two research papers accepted to NeurIPS 2026, and 1 to npj Biosensing.</li>
 <li><span class="news-tag tag-service">Service</span>08.2026: Happy to serve on the standing reviewer committee for TACL and Computational Linguistics.</li>
 <li><span class="news-tag tag-service">Service</span>08.2026: Excited to join the organizing committee of <a href="https://2027.naacl.org/organization/" target="_blank">NAACL 2027</a> as Sponsorship Co-Chair.</li>
